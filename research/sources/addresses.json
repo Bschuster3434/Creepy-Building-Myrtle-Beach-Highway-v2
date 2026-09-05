@@ -1,0 +1,83 @@
+{
+  "name": "addresses",
+  "source": "https://www.horrycounty.org/parcelapp/rest/services/HorryCountyGISApp/MapServer/22/query?geometry=-78.7665,34.0072,-78.7625,34.0092&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=ADDRESS,CITY,PIN&outSR=4326&f=json",
+  "accessDate": "2026-09-04",
+  "data": {
+    "displayFieldName": "StreetNum",
+    "fieldAliases": {
+      "ADDRESS": "ADDRESS",
+      "CITY": "CITY",
+      "PIN": "PIN"
+    },
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326
+    },
+    "fields": [
+      {
+        "name": "ADDRESS",
+        "type": "esriFieldTypeString",
+        "alias": "ADDRESS",
+        "length": 50
+      },
+      {
+        "name": "CITY",
+        "type": "esriFieldTypeString",
+        "alias": "CITY",
+        "length": 25
+      },
+      {
+        "name": "PIN",
+        "type": "esriFieldTypeDouble",
+        "alias": "PIN"
+      }
+    ],
+    "features": [
+      {
+        "attributes": {
+          "ADDRESS": "4347 E HWY 9 BUS",
+          "CITY": "Loris",
+          "PIN": 21600000005
+        },
+        "geometry": {
+          "x": -78.76619836051987,
+          "y": 34.008720982225334
+        }
+      },
+      {
+        "attributes": {
+          "ADDRESS": "4381 E HWY 9 BUS",
+          "CITY": "Loris",
+          "PIN": 21610020002
+        },
+        "geometry": {
+          "x": -78.76506357909682,
+          "y": 34.00830637790835
+        }
+      },
+      {
+        "attributes": {
+          "ADDRESS": "4397 HWY 9 E ",
+          "CITY": "Loris",
+          "PIN": 21600000006
+        },
+        "geometry": {
+          "x": -78.76434883651818,
+          "y": 34.00791734163854
+        }
+      },
+      {
+        "attributes": {
+          "ADDRESS": "4339 E HWY 9 BUS",
+          "CITY": "Loris",
+          "PIN": 21600000005
+        },
+        "geometry": {
+          "x": -78.76594635845228,
+          "y": 34.00904254728414
+        }
+      }
+    ]
+  }
+}

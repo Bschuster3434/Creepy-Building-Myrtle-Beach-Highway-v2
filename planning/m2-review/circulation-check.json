@@ -1,0 +1,82 @@
+{
+  "route_samples": 587,
+  "walker_diameter_m": 0.5,
+  "collisions": [],
+  "door_pose": "all open",
+  "eye_height_m": 1.65,
+  "limitations": "Horizontal swept-circle check; conservative leaf AABBs. Threshold steps and real browser physics require M3 verification.",
+  "route": [
+    [
+      0,
+      -3
+    ],
+    [
+      0,
+      -0.6
+    ],
+    [
+      0,
+      0.9
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      7.8
+    ],
+    [
+      0,
+      9.85
+    ],
+    [
+      -2.2,
+      9.85
+    ],
+    [
+      -2.2,
+      11.8
+    ],
+    [
+      -2.2,
+      9.85
+    ],
+    [
+      0,
+      9.85
+    ],
+    [
+      2.2,
+      9.85
+    ],
+    [
+      2.2,
+      11.8
+    ],
+    [
+      2.2,
+      9.85
+    ],
+    [
+      0,
+      9.85
+    ],
+    [
+      0,
+      12.7
+    ],
+    [
+      0,
+      15.9
+    ]
+  ],
+  "duration_seconds": 73.375,
+  "entrance_return_angle_degrees": 45.0,
+  "entrance_return_panes": 2,
+  "entrance_return_recess_m": 0.305,
+  "front_door_opening_frames": [
+    28,
+    40
+  ]
+}

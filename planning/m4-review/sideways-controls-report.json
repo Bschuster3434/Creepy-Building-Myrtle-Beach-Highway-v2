@@ -1,0 +1,81 @@
+{
+  "checks": [
+    {
+      "name": "KeyA moves sideways",
+      "pass": true,
+      "evidence": [
+        -0.73794,
+        1.7199999999999998,
+        3.1
+      ]
+    },
+    {
+      "name": "KeyD moves sideways",
+      "pass": true,
+      "evidence": [
+        0.7156799999999999,
+        1.7200000000000002,
+        3.1
+      ]
+    },
+    {
+      "name": "ArrowLeft moves sideways",
+      "pass": true,
+      "evidence": [
+        -0.7505399999999999,
+        1.7199999999999998,
+        3.1
+      ]
+    },
+    {
+      "name": "ArrowRight moves sideways",
+      "pass": true,
+      "evidence": [
+        0.7505400000000002,
+        1.7199999999999998,
+        3.1
+      ]
+    },
+    {
+      "name": "return to apron focuses the view",
+      "pass": true
+    },
+    {
+      "name": "right arrow works after return to apron",
+      "pass": true
+    },
+    {
+      "name": "focused UI button does not block A",
+      "pass": true
+    },
+    {
+      "name": "sideways movement follows the view direction",
+      "pass": true,
+      "evidence": [
+        2.1992772169834806e-16,
+        1.7199999999999998,
+        3.8763700000000023
+      ]
+    },
+    {
+      "name": "keyup clears movement after focus changes",
+      "pass": true
+    },
+    {
+      "name": "text inputs retain their keys",
+      "pass": true
+    },
+    {
+      "name": "mouse capture still enters",
+      "pass": true
+    },
+    {
+      "name": "D works with mouse captured",
+      "pass": true
+    },
+    {
+      "name": "sideways help remains visible",
+      "pass": true
+    }
+  ]
+}

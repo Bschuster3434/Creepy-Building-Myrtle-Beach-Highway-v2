@@ -1,0 +1,13 @@
+{
+  "triangles": 13448,
+  "meshObjects": 41,
+  "materials": 11,
+  "textureCount": 14,
+  "textureDimensions": [
+    512,
+    512
+  ],
+  "estimatedTextureMiBWithMipmaps": 18.666666666666668,
+  "glbBytes": 6826048,
+  "colliders": 63
+}

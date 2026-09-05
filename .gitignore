@@ -1,0 +1,16 @@
+/.playwright-mcp/
+/.claude/
+.env
+.env.*
+!.env.example
+/live-street-view.png
+
+# Reproducible Blender review intermediates
+/planning/m2-review/walk-frames/
+/planning/m2-review/build.log
+*.blend1
+__pycache__/
+/app/node_modules/
+/app/dist/
+/.npm-cache/
+/planning/m3-review/build.log

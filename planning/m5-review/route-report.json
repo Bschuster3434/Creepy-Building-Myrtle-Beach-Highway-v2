@@ -1,0 +1,1814 @@
+{
+  "chrome": {
+    "browser": "chrome",
+    "conditions": {
+      "viewport": [
+        1920,
+        1080
+      ],
+      "network": "25 Mbps down / 5 Mbps up / 40 ms latency; cache disabled; one scene rendering; all four light circuits on during walking"
+    },
+    "cold": {
+      "navigationReadyMs": 5006.5,
+      "readyMs": 4786.299999952316,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+      "gpu": "ANGLE (Intel, Intel(R) Graphics (0x00007D67) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "resources": [
+        {
+          "name": "http://127.0.0.1:5173/assets/index-DGD7sjVI.js",
+          "transferSize": 15130,
+          "duration": 62.39999997615814
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/index-DegkBqDS.css",
+          "transferSize": 2022,
+          "duration": 59.10000002384186
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/react-DBevnrki.js",
+          "transferSize": 60444,
+          "duration": 99.39999997615814
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/three-B5o1cOWt.js",
+          "transferSize": 146700,
+          "duration": 131.30000007152557
+        },
+        {
+          "name": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Libre+Caslon+Display&display=swap",
+          "transferSize": 813,
+          "duration": 71.20000004768372
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/complete.glb",
+          "transferSize": 13348544,
+          "duration": 4418.399999976158
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/complete.json",
+          "transferSize": 3948,
+          "duration": 51.60000002384186
+        },
+        {
+          "name": "http://127.0.0.1:5173/draco/draco_wasm_wrapper.js",
+          "transferSize": 12048,
+          "duration": 68.39999997615814
+        },
+        {
+          "name": "http://127.0.0.1:5173/draco/draco_decoder.wasm",
+          "transferSize": 192720,
+          "duration": 129.70000004768372
+        }
+      ],
+      "transferBytes": 13782369
+    },
+    "performance": {
+      "readyMs": 4786.299999952316,
+      "frameSamples": 3600,
+      "p50Ms": 6.19999999999709,
+      "p95Ms": 12.200000000004366,
+      "drawCalls": 163,
+      "triangles": 595078,
+      "textures": 24,
+      "geometries": 110,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        2.0108499729051688e-9,
+        1.83,
+        -6.846134162423209
+      ],
+      "yaw": -3.141592133430933,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": true,
+      "locked": false,
+      "mode": "walk",
+      "target": null,
+      "doors": [
+        {
+          "name": "D01L_front_hinge",
+          "control": "door",
+          "label": "front doors",
+          "hinge": [
+            -0.699999988079071,
+            -0.3050000071525574
+          ],
+          "width": 0.7,
+          "closedAngle": 0,
+          "swingAngle": 1.658062789394613,
+          "restAngle": 0,
+          "halfThickness": 0.04,
+          "amount": 1,
+          "target": 1
+        },
+        {
+          "name": "D01R_front_hinge",
+          "control": "door",
+          "label": "front doors",
+          "hinge": [
+            0.699999988079071,
+            -0.3050000071525574
+          ],
+          "width": 0.7,
+          "closedAngle": 3.141592653589793,
+          "swingAngle": -1.658062789394613,
+          "restAngle": 3.1415927410125732,
+          "halfThickness": 0.04,
+          "amount": 1,
+          "target": 1
+        },
+        {
+          "name": "D02_left_store_hinge",
+          "control": "cratesDoor",
+          "label": "crate storeroom door",
+          "hinge": [
+            -0.8100000023841858,
+            -7.350000381469727
+          ],
+          "width": 1,
+          "closedAngle": -1.5707963267948966,
+          "swingAngle": -1.5707963267948966,
+          "restAngle": 3.1415927410125732,
+          "halfThickness": 0.085,
+          "amount": 1,
+          "target": 1
+        },
+        {
+          "name": "D03_right_store_hinge",
+          "control": "packingDoor",
+          "label": "packing room door",
+          "hinge": [
+            0.8100000023841858,
+            -7.350000381469727
+          ],
+          "width": 1,
+          "closedAngle": -1.5707963267948966,
+          "swingAngle": 1.5707963267948966,
+          "restAngle": 0,
+          "halfThickness": 0.085,
+          "amount": 1,
+          "target": 1
+        },
+        {
+          "name": "D04_rear_hinge",
+          "control": "rearDoor",
+          "label": "rear door",
+          "hinge": [
+            -0.5,
+            -15.180000305175781
+          ],
+          "width": 1,
+          "closedAngle": 0,
+          "swingAngle": 1.5707963267948966,
+          "restAngle": 1.5707963705062866,
+          "halfThickness": 0.085,
+          "amount": 1,
+          "target": 1
+        }
+      ],
+      "circuits": {
+        "light": {
+          "on": true,
+          "intensities": [
+            14,
+            14
+          ],
+          "bulbs": [
+            3,
+            3
+          ]
+        },
+        "cratesLight": {
+          "on": true,
+          "intensities": [
+            11
+          ],
+          "bulbs": [
+            3
+          ]
+        },
+        "packingLight": {
+          "on": true,
+          "intensities": [
+            11
+          ],
+          "bulbs": [
+            3
+          ]
+        },
+        "passage": {
+          "on": true,
+          "intensities": [
+            14,
+            11
+          ],
+          "bulbs": [
+            3,
+            3
+          ]
+        }
+      },
+      "walkingPosition": [
+        2.0108499729051688e-9,
+        1.83,
+        -6.846134162423209
+      ],
+      "zoom": 1,
+      "inspectionTarget": [
+        0,
+        1,
+        -7.65
+      ]
+    },
+    "samples": [
+      {
+        "name": "entrance",
+        "position": [
+          0,
+          1.8299999515536198,
+          -1.4679200000000026
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 202,
+        "triangles": 595826
+      },
+      {
+        "name": "customer aisle",
+        "position": [
+          -2.773705330575498,
+          1.8299999999999996,
+          -1.4999273622319609
+        ],
+        "p95Ms": 18.19999999999891,
+        "drawCalls": 132,
+        "triangles": 582529
+      },
+      {
+        "name": "around counter",
+        "position": [
+          -2.7799952951491225,
+          1.8299999999999996,
+          -3.5484677057072105
+        ],
+        "p95Ms": 18.19999999999891,
+        "drawCalls": 192,
+        "triangles": 592950
+      },
+      {
+        "name": "serving aisle",
+        "position": [
+          -0.006315716479237364,
+          1.8299999999999996,
+          -3.5499965188659366
+        ],
+        "p95Ms": 18.19999999999891,
+        "drawCalls": 140,
+        "triangles": 591946
+      },
+      {
+        "name": "front passage",
+        "position": [
+          0.29898987809968697,
+          1.8299999999999996,
+          -5.344064219238141
+        ],
+        "p95Ms": 18.19999999999891,
+        "drawCalls": 186,
+        "triangles": 592686
+      },
+      {
+        "name": "storeroom junction",
+        "position": [
+          0.001598770602301884,
+          1.8299999999999996,
+          -6.841947400124241
+        ],
+        "p95Ms": 18.100000000002183,
+        "drawCalls": 169,
+        "triangles": 591758
+      },
+      {
+        "name": "crate room entry",
+        "position": [
+          -2.237826907666977,
+          1.8299999999999996,
+          -6.84995646424972
+        ],
+        "p95Ms": 18.100000000000364,
+        "drawCalls": 137,
+        "triangles": 590350
+      },
+      {
+        "name": "crate room full aisle",
+        "position": [
+          -2.2499834161322827,
+          1.8299999999999996,
+          -12.791894028866418
+        ],
+        "p95Ms": 18.100000000000364,
+        "drawCalls": 147,
+        "triangles": 584418
+      },
+      {
+        "name": "crate room return",
+        "position": [
+          -2.2499999298228066,
+          1.8299999999999996,
+          -6.875144028889494
+        ],
+        "p95Ms": 18.100000000000364,
+        "drawCalls": 164,
+        "triangles": 595122
+      },
+      {
+        "name": "passage return",
+        "position": [
+          -0.02329896447929284,
+          1.8299999999999996,
+          -6.850260368824104
+        ],
+        "p95Ms": 18.100000000000364,
+        "drawCalls": 153,
+        "triangles": 591918
+      },
+      {
+        "name": "packing room entry",
+        "position": [
+          2.254361020581628,
+          1.8299999999999996,
+          -6.849999500517151
+        ],
+        "p95Ms": 18.100000000000364,
+        "drawCalls": 137,
+        "triangles": 590350
+      },
+      {
+        "name": "packing room full aisle",
+        "position": [
+          2.249987499644117,
+          1.8299999999999998,
+          -13.619348087701496
+        ],
+        "p95Ms": 12.399999999997817,
+        "drawCalls": 145,
+        "triangles": 584330
+      },
+      {
+        "name": "packing room return",
+        "position": [
+          2.2499999763484015,
+          1.8299999999999996,
+          -6.862808087713086
+        ],
+        "p95Ms": 12.299999999999272,
+        "drawCalls": 164,
+        "triangles": 595122
+      },
+      {
+        "name": "passage again",
+        "position": [
+          0.023406051740895484,
+          1.8299999999999996,
+          -6.850133238563032
+        ],
+        "p95Ms": 12.299999999999272,
+        "drawCalls": 152,
+        "triangles": 591010
+      },
+      {
+        "name": "rear passage",
+        "position": [
+          0.000014270257779832701,
+          1.8299999999999996,
+          -14.395396979119738
+        ],
+        "p95Ms": 12.200000000004366,
+        "drawCalls": 144,
+        "triangles": 584286
+      },
+      {
+        "name": "rear exit and steps",
+        "position": [
+          9.449738665317984e-8,
+          1.690474931352487,
+          -17.67811697908907
+        ],
+        "p95Ms": 12.200000000004366,
+        "drawCalls": 123,
+        "triangles": 577609
+      },
+      {
+        "name": "rear yard",
+        "position": [
+          4.7841703773193665,
+          1.6900000000000002,
+          -17.699927833339174
+        ],
+        "p95Ms": 12.200000000004366,
+        "drawCalls": 123,
+        "triangles": 577609
+      },
+      {
+        "name": "right side path",
+        "position": [
+          4.7999891787232745,
+          1.69,
+          2.785986059185173
+        ],
+        "p95Ms": 12.200000000004366,
+        "drawCalls": 121,
+        "triangles": 563007
+      },
+      {
+        "name": "front apron",
+        "position": [
+          0.002979623374375984,
+          1.7199999999999993,
+          2.7999913007583976
+        ],
+        "p95Ms": 12.200000000004366,
+        "drawCalls": 132,
+        "triangles": 582529
+      },
+      {
+        "name": "left apron",
+        "position": [
+          -4.80665037661776,
+          1.7003356324027876,
+          2.8000000120452406
+        ],
+        "p95Ms": 12.200000000000728,
+        "drawCalls": 124,
+        "triangles": 578449
+      },
+      {
+        "name": "left side path",
+        "position": [
+          -4.800008791826717,
+          1.69,
+          -17.672898910661143
+        ],
+        "p95Ms": 12.200000000004366,
+        "drawCalls": 123,
+        "triangles": 577609
+      },
+      {
+        "name": "yard return",
+        "position": [
+          -0.003055249571861738,
+          1.69,
+          -17.699982749908333
+        ],
+        "p95Ms": 12.200000000004366,
+        "drawCalls": 130,
+        "triangles": 583670
+      },
+      {
+        "name": "reenter rear",
+        "position": [
+          -0.000003929407032190541,
+          1.8299999975550663,
+          -14.404244162422167
+        ],
+        "p95Ms": 12.200000000004366,
+        "drawCalls": 203,
+        "triangles": 597018
+      },
+      {
+        "name": "return through passage",
+        "position": [
+          2.0108499729051688e-9,
+          1.83,
+          -6.846134162423209
+        ],
+        "p95Ms": 12.200000000004366,
+        "drawCalls": 163,
+        "triangles": 595078
+      }
+    ],
+    "checks": [
+      {
+        "name": "door reachable from reverse side before closing",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door closes from reverse side",
+        "pass": true
+      },
+      {
+        "name": "door reachable from reverse side before opening",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door reopens from reverse side",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor reachable from reverse side before closing",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor closes from reverse side",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor reachable from reverse side before opening",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor reopens from reverse side",
+        "pass": true
+      },
+      {
+        "name": "packingDoor reachable from reverse side before closing",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor closes from reverse side",
+        "pass": true
+      },
+      {
+        "name": "packingDoor reachable from reverse side before opening",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor reopens from reverse side",
+        "pass": true
+      },
+      {
+        "name": "rearDoor reachable from reverse side before closing",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor closes from reverse side",
+        "pass": true
+      },
+      {
+        "name": "rearDoor reachable from reverse side before opening",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor reopens from reverse side",
+        "pass": true
+      },
+      {
+        "name": "entrance",
+        "pass": true,
+        "evidence": [
+          0,
+          1.8299999515536198,
+          -1.4679200000000026
+        ]
+      },
+      {
+        "name": "entrance body is clear",
+        "pass": true
+      },
+      {
+        "name": "customer aisle",
+        "pass": true,
+        "evidence": [
+          -2.773705330575498,
+          1.8299999999999996,
+          -1.4999273622319609
+        ]
+      },
+      {
+        "name": "customer aisle body is clear",
+        "pass": true
+      },
+      {
+        "name": "around counter",
+        "pass": true,
+        "evidence": [
+          -2.7799952951491225,
+          1.8299999999999996,
+          -3.5484677057072105
+        ]
+      },
+      {
+        "name": "around counter body is clear",
+        "pass": true
+      },
+      {
+        "name": "serving aisle",
+        "pass": true,
+        "evidence": [
+          -0.006315716479237364,
+          1.8299999999999996,
+          -3.5499965188659366
+        ]
+      },
+      {
+        "name": "serving aisle body is clear",
+        "pass": true
+      },
+      {
+        "name": "front passage",
+        "pass": true,
+        "evidence": [
+          0.29898987809968697,
+          1.8299999999999996,
+          -5.344064219238141
+        ]
+      },
+      {
+        "name": "front passage body is clear",
+        "pass": true
+      },
+      {
+        "name": "storeroom junction",
+        "pass": true,
+        "evidence": [
+          0.001598770602301884,
+          1.8299999999999996,
+          -6.841947400124241
+        ]
+      },
+      {
+        "name": "storeroom junction body is clear",
+        "pass": true
+      },
+      {
+        "name": "crate room entry",
+        "pass": true,
+        "evidence": [
+          -2.237826907666977,
+          1.8299999999999996,
+          -6.84995646424972
+        ]
+      },
+      {
+        "name": "crate room entry body is clear",
+        "pass": true
+      },
+      {
+        "name": "crate room full aisle",
+        "pass": true,
+        "evidence": [
+          -2.2499834161322827,
+          1.8299999999999996,
+          -12.791894028866418
+        ]
+      },
+      {
+        "name": "crate room full aisle body is clear",
+        "pass": true
+      },
+      {
+        "name": "crate room return",
+        "pass": true,
+        "evidence": [
+          -2.2499999298228066,
+          1.8299999999999996,
+          -6.875144028889494
+        ]
+      },
+      {
+        "name": "crate room return body is clear",
+        "pass": true
+      },
+      {
+        "name": "passage return",
+        "pass": true,
+        "evidence": [
+          -0.02329896447929284,
+          1.8299999999999996,
+          -6.850260368824104
+        ]
+      },
+      {
+        "name": "passage return body is clear",
+        "pass": true
+      },
+      {
+        "name": "packing room entry",
+        "pass": true,
+        "evidence": [
+          2.254361020581628,
+          1.8299999999999996,
+          -6.849999500517151
+        ]
+      },
+      {
+        "name": "packing room entry body is clear",
+        "pass": true
+      },
+      {
+        "name": "packing room full aisle",
+        "pass": true,
+        "evidence": [
+          2.249987499644117,
+          1.8299999999999998,
+          -13.619348087701496
+        ]
+      },
+      {
+        "name": "packing room full aisle body is clear",
+        "pass": true
+      },
+      {
+        "name": "packing room return",
+        "pass": true,
+        "evidence": [
+          2.2499999763484015,
+          1.8299999999999996,
+          -6.862808087713086
+        ]
+      },
+      {
+        "name": "packing room return body is clear",
+        "pass": true
+      },
+      {
+        "name": "passage again",
+        "pass": true,
+        "evidence": [
+          0.023406051740895484,
+          1.8299999999999996,
+          -6.850133238563032
+        ]
+      },
+      {
+        "name": "passage again body is clear",
+        "pass": true
+      },
+      {
+        "name": "rear passage",
+        "pass": true,
+        "evidence": [
+          0.000014270257779832701,
+          1.8299999999999996,
+          -14.395396979119738
+        ]
+      },
+      {
+        "name": "rear passage body is clear",
+        "pass": true
+      },
+      {
+        "name": "rear exit and steps",
+        "pass": true,
+        "evidence": [
+          9.449738665317984e-8,
+          1.690474931352487,
+          -17.67811697908907
+        ]
+      },
+      {
+        "name": "rear exit and steps body is clear",
+        "pass": true
+      },
+      {
+        "name": "rear yard",
+        "pass": true,
+        "evidence": [
+          4.7841703773193665,
+          1.6900000000000002,
+          -17.699927833339174
+        ]
+      },
+      {
+        "name": "rear yard body is clear",
+        "pass": true
+      },
+      {
+        "name": "right side path",
+        "pass": true,
+        "evidence": [
+          4.7999891787232745,
+          1.69,
+          2.785986059185173
+        ]
+      },
+      {
+        "name": "right side path body is clear",
+        "pass": true
+      },
+      {
+        "name": "front apron",
+        "pass": true,
+        "evidence": [
+          0.002979623374375984,
+          1.7199999999999993,
+          2.7999913007583976
+        ]
+      },
+      {
+        "name": "front apron body is clear",
+        "pass": true
+      },
+      {
+        "name": "left apron",
+        "pass": true,
+        "evidence": [
+          -4.80665037661776,
+          1.7003356324027876,
+          2.8000000120452406
+        ]
+      },
+      {
+        "name": "left apron body is clear",
+        "pass": true
+      },
+      {
+        "name": "left side path",
+        "pass": true,
+        "evidence": [
+          -4.800008791826717,
+          1.69,
+          -17.672898910661143
+        ]
+      },
+      {
+        "name": "left side path body is clear",
+        "pass": true
+      },
+      {
+        "name": "yard return",
+        "pass": true,
+        "evidence": [
+          -0.003055249571861738,
+          1.69,
+          -17.699982749908333
+        ]
+      },
+      {
+        "name": "yard return body is clear",
+        "pass": true
+      },
+      {
+        "name": "reenter rear",
+        "pass": true,
+        "evidence": [
+          -0.000003929407032190541,
+          1.8299999975550663,
+          -14.404244162422167
+        ]
+      },
+      {
+        "name": "reenter rear body is clear",
+        "pass": true
+      },
+      {
+        "name": "return through passage",
+        "pass": true,
+        "evidence": [
+          2.0108499729051688e-9,
+          1.83,
+          -6.846134162423209
+        ]
+      },
+      {
+        "name": "return through passage body is clear",
+        "pass": true
+      },
+      {
+        "name": "walkthrough p95 meets accepted 20 ms",
+        "pass": true,
+        "evidence": 12.200000000004366
+      },
+      {
+        "name": "initial transfer meets 15 MB",
+        "pass": true,
+        "evidence": 13782369
+      },
+      {
+        "name": "sampled draw calls within 350",
+        "pass": true,
+        "evidence": 203
+      },
+      {
+        "name": "rendered triangles including shadow pass within 750k",
+        "pass": true,
+        "evidence": 597018
+      },
+      {
+        "name": "no runtime errors",
+        "pass": true,
+        "evidence": []
+      }
+    ],
+    "errors": [],
+    "pass": true
+  },
+  "edge": {
+    "browser": "edge",
+    "conditions": {
+      "viewport": [
+        1920,
+        1080
+      ],
+      "network": "25 Mbps down / 5 Mbps up / 40 ms latency; cache disabled; one scene rendering; all four light circuits on during walking"
+    },
+    "cold": {
+      "navigationReadyMs": 5137.299999952316,
+      "readyMs": 4866.600000023842,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+      "gpu": "ANGLE (Intel, Intel(R) Graphics (0x00007D67) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "resources": [
+        {
+          "name": "http://127.0.0.1:5173/assets/index-DGD7sjVI.js",
+          "transferSize": 15130,
+          "duration": 57.299999952316284
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/react-DBevnrki.js",
+          "transferSize": 60444,
+          "duration": 95.70000004768372
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/three-B5o1cOWt.js",
+          "transferSize": 146700,
+          "duration": 120.80000007152557
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/index-DegkBqDS.css",
+          "transferSize": 2022,
+          "duration": 44.89999997615814
+        },
+        {
+          "name": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Libre+Caslon+Display&display=swap",
+          "transferSize": 813,
+          "duration": 121.5
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/complete.glb",
+          "transferSize": 13348544,
+          "duration": 4409.399999976158
+        },
+        {
+          "name": "http://127.0.0.1:5173/assets/complete.json",
+          "transferSize": 3948,
+          "duration": 62
+        },
+        {
+          "name": "http://127.0.0.1:5173/draco/draco_wasm_wrapper.js",
+          "transferSize": 12048,
+          "duration": 62.89999997615814
+        },
+        {
+          "name": "http://127.0.0.1:5173/draco/draco_decoder.wasm",
+          "transferSize": 192720,
+          "duration": 125.39999997615814
+        }
+      ],
+      "transferBytes": 13782369
+    },
+    "performance": {
+      "readyMs": 4866.600000023842,
+      "frameSamples": 3600,
+      "p50Ms": 12.099999999998545,
+      "p95Ms": 18.19999999999709,
+      "drawCalls": 163,
+      "triangles": 595078,
+      "textures": 24,
+      "geometries": 110,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        -7.665629855333498e-8,
+        1.8299999999999996,
+        -6.87155246008587
+      ],
+      "yaw": -3.1415890968590436,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": true,
+      "locked": false,
+      "mode": "walk",
+      "target": null,
+      "doors": [
+        {
+          "name": "D01L_front_hinge",
+          "control": "door",
+          "label": "front doors",
+          "hinge": [
+            -0.699999988079071,
+            -0.3050000071525574
+          ],
+          "width": 0.7,
+          "closedAngle": 0,
+          "swingAngle": 1.658062789394613,
+          "restAngle": 0,
+          "halfThickness": 0.04,
+          "amount": 1,
+          "target": 1
+        },
+        {
+          "name": "D01R_front_hinge",
+          "control": "door",
+          "label": "front doors",
+          "hinge": [
+            0.699999988079071,
+            -0.3050000071525574
+          ],
+          "width": 0.7,
+          "closedAngle": 3.141592653589793,
+          "swingAngle": -1.658062789394613,
+          "restAngle": 3.1415927410125732,
+          "halfThickness": 0.04,
+          "amount": 1,
+          "target": 1
+        },
+        {
+          "name": "D02_left_store_hinge",
+          "control": "cratesDoor",
+          "label": "crate storeroom door",
+          "hinge": [
+            -0.8100000023841858,
+            -7.350000381469727
+          ],
+          "width": 1,
+          "closedAngle": -1.5707963267948966,
+          "swingAngle": -1.5707963267948966,
+          "restAngle": 3.1415927410125732,
+          "halfThickness": 0.085,
+          "amount": 1,
+          "target": 1
+        },
+        {
+          "name": "D03_right_store_hinge",
+          "control": "packingDoor",
+          "label": "packing room door",
+          "hinge": [
+            0.8100000023841858,
+            -7.350000381469727
+          ],
+          "width": 1,
+          "closedAngle": -1.5707963267948966,
+          "swingAngle": 1.5707963267948966,
+          "restAngle": 0,
+          "halfThickness": 0.085,
+          "amount": 1,
+          "target": 1
+        },
+        {
+          "name": "D04_rear_hinge",
+          "control": "rearDoor",
+          "label": "rear door",
+          "hinge": [
+            -0.5,
+            -15.180000305175781
+          ],
+          "width": 1,
+          "closedAngle": 0,
+          "swingAngle": 1.5707963267948966,
+          "restAngle": 1.5707963705062866,
+          "halfThickness": 0.085,
+          "amount": 1,
+          "target": 1
+        }
+      ],
+      "circuits": {
+        "light": {
+          "on": true,
+          "intensities": [
+            14,
+            14
+          ],
+          "bulbs": [
+            3,
+            3
+          ]
+        },
+        "cratesLight": {
+          "on": true,
+          "intensities": [
+            11
+          ],
+          "bulbs": [
+            3
+          ]
+        },
+        "packingLight": {
+          "on": true,
+          "intensities": [
+            11
+          ],
+          "bulbs": [
+            3
+          ]
+        },
+        "passage": {
+          "on": true,
+          "intensities": [
+            14,
+            11
+          ],
+          "bulbs": [
+            3,
+            3
+          ]
+        }
+      },
+      "walkingPosition": [
+        -7.665629855333498e-8,
+        1.8299999999999996,
+        -6.87155246008587
+      ],
+      "zoom": 1,
+      "inspectionTarget": [
+        0,
+        1,
+        -7.65
+      ]
+    },
+    "samples": [
+      {
+        "name": "entrance",
+        "position": [
+          0,
+          1.8299999412140655,
+          -1.4681300000000035
+        ],
+        "p95Ms": 18.299999999999272,
+        "drawCalls": 202,
+        "triangles": 595826
+      },
+      {
+        "name": "customer aisle",
+        "position": [
+          -2.773707740166412,
+          1.8299999999999996,
+          -1.4999278653521966
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 132,
+        "triangles": 582529
+      },
+      {
+        "name": "around counter",
+        "position": [
+          -2.7799559811340915,
+          1.8299999999999996,
+          -3.535658276552265
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 193,
+        "triangles": 592994
+      },
+      {
+        "name": "serving aisle",
+        "position": [
+          0.006706935563562161,
+          1.8299999999999996,
+          -3.550034600913001
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 140,
+        "triangles": 591946
+      },
+      {
+        "name": "front passage",
+        "position": [
+          0.30137439197874727,
+          1.8299999999999996,
+          -5.358434764767728
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 186,
+        "triangles": 592686
+      },
+      {
+        "name": "storeroom junction",
+        "position": [
+          0.004043666990068383,
+          1.8299999999999996,
+          -6.829987041813202
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 170,
+        "triangles": 591982
+      },
+      {
+        "name": "crate room entry",
+        "position": [
+          -2.2481175645164537,
+          1.8299999999999996,
+          -6.849983286436205
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 137,
+        "triangles": 590350
+      },
+      {
+        "name": "crate room full aisle",
+        "position": [
+          -2.249997514239553,
+          1.8299999999999996,
+          -12.792142989051833
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 147,
+        "triangles": 584418
+      },
+      {
+        "name": "crate room return",
+        "position": [
+          -2.249999994648334,
+          1.8299999999999996,
+          -6.862792989052279
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 164,
+        "triangles": 595122
+      },
+      {
+        "name": "passage return",
+        "position": [
+          -0.01059619209426725,
+          1.8299999999999996,
+          -6.8500602475421255
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 153,
+        "triangles": 591918
+      },
+      {
+        "name": "packing room entry",
+        "position": [
+          2.241443807105941,
+          1.8299999999999996,
+          -6.8500002280325765
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 137,
+        "triangles": 590350
+      },
+      {
+        "name": "packing room full aisle",
+        "position": [
+          2.249992311861199,
+          1.83,
+          -13.59393481006015
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 145,
+        "triangles": 584330
+      },
+      {
+        "name": "packing room return",
+        "position": [
+          2.2499999851630306,
+          1.83,
+          -6.863014810064483
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 164,
+        "triangles": 595122
+      },
+      {
+        "name": "passage again",
+        "position": [
+          0.010597448734394041,
+          1.83,
+          -6.850061299459277
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 152,
+        "triangles": 591010
+      },
+      {
+        "name": "rear passage",
+        "position": [
+          -0.000011459168931334758,
+          1.83,
+          -14.40816385388206
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 144,
+        "triangles": 584286
+      },
+      {
+        "name": "rear exit and steps",
+        "position": [
+          -3.100307202133795e-8,
+          1.6904277541992783,
+          -17.691093853862263
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 123,
+        "triangles": 577609
+      },
+      {
+        "name": "rear yard",
+        "position": [
+          4.797021711689183,
+          1.69,
+          -17.699994473943796
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 123,
+        "triangles": 577609
+      },
+      {
+        "name": "right side path",
+        "position": [
+          4.799999785753483,
+          1.69,
+          2.7985253097253455
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 121,
+        "triangles": 563007
+      },
+      {
+        "name": "front apron",
+        "position": [
+          0.015780011541186325,
+          1.7199999999999998,
+          2.799995151951968
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 132,
+        "triangles": 582529
+      },
+      {
+        "name": "left apron",
+        "position": [
+          -4.7812499884564,
+          1.701395258885541,
+          2.7999999811243765
+        ],
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 124,
+        "triangles": 578449
+      },
+      {
+        "name": "left side path",
+        "position": [
+          -4.799986922050007,
+          1.69,
+          -17.685701450152404
+        ],
+        "p95Ms": 18.19999999999709,
+        "drawCalls": 123,
+        "triangles": 577609
+      },
+      {
+        "name": "yard return",
+        "position": [
+          -0.002978205568655301,
+          1.69,
+          -17.699991128304887
+        ],
+        "p95Ms": 18.19999999999709,
+        "drawCalls": 130,
+        "triangles": 583670
+      },
+      {
+        "name": "reenter rear",
+        "position": [
+          -0.000026959565457806217,
+          1.8299999973000913,
+          -14.429872460038062
+        ],
+        "p95Ms": 18.19999999999709,
+        "drawCalls": 203,
+        "triangles": 597018
+      },
+      {
+        "name": "return through passage",
+        "position": [
+          -7.665629855333498e-8,
+          1.8299999999999996,
+          -6.87155246008587
+        ],
+        "p95Ms": 18.19999999999709,
+        "drawCalls": 163,
+        "triangles": 595078
+      }
+    ],
+    "checks": [
+      {
+        "name": "door reachable from reverse side before closing",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door closes from reverse side",
+        "pass": true
+      },
+      {
+        "name": "door reachable from reverse side before opening",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door reopens from reverse side",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor reachable from reverse side before closing",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor closes from reverse side",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor reachable from reverse side before opening",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor reopens from reverse side",
+        "pass": true
+      },
+      {
+        "name": "packingDoor reachable from reverse side before closing",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor closes from reverse side",
+        "pass": true
+      },
+      {
+        "name": "packingDoor reachable from reverse side before opening",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor reopens from reverse side",
+        "pass": true
+      },
+      {
+        "name": "rearDoor reachable from reverse side before closing",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor closes from reverse side",
+        "pass": true
+      },
+      {
+        "name": "rearDoor reachable from reverse side before opening",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor reopens from reverse side",
+        "pass": true
+      },
+      {
+        "name": "entrance",
+        "pass": true,
+        "evidence": [
+          0,
+          1.8299999412140655,
+          -1.4681300000000035
+        ]
+      },
+      {
+        "name": "entrance body is clear",
+        "pass": true
+      },
+      {
+        "name": "customer aisle",
+        "pass": true,
+        "evidence": [
+          -2.773707740166412,
+          1.8299999999999996,
+          -1.4999278653521966
+        ]
+      },
+      {
+        "name": "customer aisle body is clear",
+        "pass": true
+      },
+      {
+        "name": "around counter",
+        "pass": true,
+        "evidence": [
+          -2.7799559811340915,
+          1.8299999999999996,
+          -3.535658276552265
+        ]
+      },
+      {
+        "name": "around counter body is clear",
+        "pass": true
+      },
+      {
+        "name": "serving aisle",
+        "pass": true,
+        "evidence": [
+          0.006706935563562161,
+          1.8299999999999996,
+          -3.550034600913001
+        ]
+      },
+      {
+        "name": "serving aisle body is clear",
+        "pass": true
+      },
+      {
+        "name": "front passage",
+        "pass": true,
+        "evidence": [
+          0.30137439197874727,
+          1.8299999999999996,
+          -5.358434764767728
+        ]
+      },
+      {
+        "name": "front passage body is clear",
+        "pass": true
+      },
+      {
+        "name": "storeroom junction",
+        "pass": true,
+        "evidence": [
+          0.004043666990068383,
+          1.8299999999999996,
+          -6.829987041813202
+        ]
+      },
+      {
+        "name": "storeroom junction body is clear",
+        "pass": true
+      },
+      {
+        "name": "crate room entry",
+        "pass": true,
+        "evidence": [
+          -2.2481175645164537,
+          1.8299999999999996,
+          -6.849983286436205
+        ]
+      },
+      {
+        "name": "crate room entry body is clear",
+        "pass": true
+      },
+      {
+        "name": "crate room full aisle",
+        "pass": true,
+        "evidence": [
+          -2.249997514239553,
+          1.8299999999999996,
+          -12.792142989051833
+        ]
+      },
+      {
+        "name": "crate room full aisle body is clear",
+        "pass": true
+      },
+      {
+        "name": "crate room return",
+        "pass": true,
+        "evidence": [
+          -2.249999994648334,
+          1.8299999999999996,
+          -6.862792989052279
+        ]
+      },
+      {
+        "name": "crate room return body is clear",
+        "pass": true
+      },
+      {
+        "name": "passage return",
+        "pass": true,
+        "evidence": [
+          -0.01059619209426725,
+          1.8299999999999996,
+          -6.8500602475421255
+        ]
+      },
+      {
+        "name": "passage return body is clear",
+        "pass": true
+      },
+      {
+        "name": "packing room entry",
+        "pass": true,
+        "evidence": [
+          2.241443807105941,
+          1.8299999999999996,
+          -6.8500002280325765
+        ]
+      },
+      {
+        "name": "packing room entry body is clear",
+        "pass": true
+      },
+      {
+        "name": "packing room full aisle",
+        "pass": true,
+        "evidence": [
+          2.249992311861199,
+          1.83,
+          -13.59393481006015
+        ]
+      },
+      {
+        "name": "packing room full aisle body is clear",
+        "pass": true
+      },
+      {
+        "name": "packing room return",
+        "pass": true,
+        "evidence": [
+          2.2499999851630306,
+          1.83,
+          -6.863014810064483
+        ]
+      },
+      {
+        "name": "packing room return body is clear",
+        "pass": true
+      },
+      {
+        "name": "passage again",
+        "pass": true,
+        "evidence": [
+          0.010597448734394041,
+          1.83,
+          -6.850061299459277
+        ]
+      },
+      {
+        "name": "passage again body is clear",
+        "pass": true
+      },
+      {
+        "name": "rear passage",
+        "pass": true,
+        "evidence": [
+          -0.000011459168931334758,
+          1.83,
+          -14.40816385388206
+        ]
+      },
+      {
+        "name": "rear passage body is clear",
+        "pass": true
+      },
+      {
+        "name": "rear exit and steps",
+        "pass": true,
+        "evidence": [
+          -3.100307202133795e-8,
+          1.6904277541992783,
+          -17.691093853862263
+        ]
+      },
+      {
+        "name": "rear exit and steps body is clear",
+        "pass": true
+      },
+      {
+        "name": "rear yard",
+        "pass": true,
+        "evidence": [
+          4.797021711689183,
+          1.69,
+          -17.699994473943796
+        ]
+      },
+      {
+        "name": "rear yard body is clear",
+        "pass": true
+      },
+      {
+        "name": "right side path",
+        "pass": true,
+        "evidence": [
+          4.799999785753483,
+          1.69,
+          2.7985253097253455
+        ]
+      },
+      {
+        "name": "right side path body is clear",
+        "pass": true
+      },
+      {
+        "name": "front apron",
+        "pass": true,
+        "evidence": [
+          0.015780011541186325,
+          1.7199999999999998,
+          2.799995151951968
+        ]
+      },
+      {
+        "name": "front apron body is clear",
+        "pass": true
+      },
+      {
+        "name": "left apron",
+        "pass": true,
+        "evidence": [
+          -4.7812499884564,
+          1.701395258885541,
+          2.7999999811243765
+        ]
+      },
+      {
+        "name": "left apron body is clear",
+        "pass": true
+      },
+      {
+        "name": "left side path",
+        "pass": true,
+        "evidence": [
+          -4.799986922050007,
+          1.69,
+          -17.685701450152404
+        ]
+      },
+      {
+        "name": "left side path body is clear",
+        "pass": true
+      },
+      {
+        "name": "yard return",
+        "pass": true,
+        "evidence": [
+          -0.002978205568655301,
+          1.69,
+          -17.699991128304887
+        ]
+      },
+      {
+        "name": "yard return body is clear",
+        "pass": true
+      },
+      {
+        "name": "reenter rear",
+        "pass": true,
+        "evidence": [
+          -0.000026959565457806217,
+          1.8299999973000913,
+          -14.429872460038062
+        ]
+      },
+      {
+        "name": "reenter rear body is clear",
+        "pass": true
+      },
+      {
+        "name": "return through passage",
+        "pass": true,
+        "evidence": [
+          -7.665629855333498e-8,
+          1.8299999999999996,
+          -6.87155246008587
+        ]
+      },
+      {
+        "name": "return through passage body is clear",
+        "pass": true
+      },
+      {
+        "name": "walkthrough p95 meets accepted 20 ms",
+        "pass": true,
+        "evidence": 18.19999999999709
+      },
+      {
+        "name": "initial transfer meets 15 MB",
+        "pass": true,
+        "evidence": 13782369
+      },
+      {
+        "name": "sampled draw calls within 350",
+        "pass": true,
+        "evidence": 203
+      },
+      {
+        "name": "rendered triangles including shadow pass within 750k",
+        "pass": true,
+        "evidence": 597018
+      },
+      {
+        "name": "no runtime errors",
+        "pass": true,
+        "evidence": []
+      }
+    ],
+    "errors": [],
+    "pass": true
+  }
+}

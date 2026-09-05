@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-09-05T15:37:55.781385+00:00",
+  "milestone": "M5",
+  "status": "Done",
+  "reviewPending": false,
+  "acceptedBy": "Brian",
+  "acceptedDate": "2026-09-05",
+  "controlReviewChecks": {
+    "chrome": 82,
+    "edge": 82
+  },
+  "baselineEvidence": "The three original suites describe the initial implementation before Brian requested control refinements.",
+  "nodeTests": 16,
+  "browserChecks": {
+    "chrome": {
+      "interaction": 90,
+      "mode": 57,
+      "route": 69
+    },
+    "edge": {
+      "interaction": 90,
+      "mode": 57,
+      "route": 69
+    }
+  },
+  "assets": {
+    "milestone": "M5",
+    "triangles": 298883,
+    "meshObjects": 110,
+    "materials": 33,
+    "textureCount": 25,
+    "estimatedTextureMiBWithMipmaps": 33.33333333333333,
+    "glbBytes": 13348244,
+    "colliders": 86,
+    "constructionObjects": 1623,
+    "trees": 8,
+    "rooms": [
+      "sales",
+      "crate storage",
+      "packing",
+      "rear passage"
+    ]
+  },
+  "artifacts": {
+    "model/myrtle-beach-v2-complete.blend": {
+      "bytes": 19039782,
+      "sha256": "4b881a9ec66fe24196d05f73fc90618ef4fc1369e6da949371de9340fb6a54ff"
+    },
+    "model/build_full.py": {
+      "bytes": 21081,
+      "sha256": "83375d00c21a54f9ef72f1c7f854e178878bd5aa643cfb8446798f73067a37c3"
+    },
+    "model/walkthrough_data.py": {
+      "bytes": 2078,
+      "sha256": "6ff036c632df941f12fd60f3932288a574e0aa8d5157a8897937c66443af6d9a"
+    },
+    "model/build_sample.py": {
+      "bytes": 31250,
+      "sha256": "f718c859dd099bd320d824dd8bafbfb574676eaf5a267e4eab431017b9b55728"
+    },
+    "model/full_scene_finish.py": {
+      "bytes": 2798,
+      "sha256": "081a31dd66251c36fdd00592634b7b491c4477157d2692c581ac166f57daf147"
+    },
+    "model/myrtle-beach-v2-blockout.blend": {
+      "bytes": 211795,
+      "sha256": "4cae8315d2ed680b9964ce63234afe33987bb57c1a08d026836799632a4f0826"
+    },
+    "app/public/assets/complete.glb": {
+      "bytes": 13348244,
+      "sha256": "536d7abfc06611f1ae2dd12993f090c39febf2131eb313c413029c41ab3ce9d5"
+    },
+    "app/public/assets/complete.json": {
+      "bytes": 25575,
+      "sha256": "3696e43a27fd5205c4031602c09d22687ebc126f3737ee1be774964c3e4bba63"
+    },
+    "app/src/world.js": {
+      "bytes": 22483,
+      "sha256": "1d896279ac24f39d13d958d04ffc23d61cae279a0569217b75aaee79f1df6825"
+    },
+    "app/src/physics.js": {
+      "bytes": 2818,
+      "sha256": "b887297b1f2e1a822d813b07638b09f8a3a120a6f43f97c638e60f0672fb8c5a"
+    },
+    "app/src/main.jsx": {
+      "bytes": 5665,
+      "sha256": "fa96d07eef3b8b9d1fa21b0400582d1d06801e7b5cbd48bf151cf6325b9aa553"
+    },
+    "app/src/style.css": {
+      "bytes": 4696,
+      "sha256": "6b1196b80848797599d5f83342992ae63d12b743f627b9a1f738b10c98edb770"
+    },
+    "app/package.json": {
+      "bytes": 451,
+      "sha256": "48b1a93f2a2c3ea84493a894254ef8435a44608056eefdda2d09f8325130738b"
+    },
+    "app/package-lock.json": {
+      "bytes": 36272,
+      "sha256": "a593c9f1abec9a9fbc9409c7f2d407510c1e89a7079d3477a6f60b688a7c18ce"
+    },
+    "app/README.md": {
+      "bytes": 8022,
+      "sha256": "3188fbc6d8ee9a66b41dada93b4592785819fd345a16e17d1fd597a55c601554"
+    },
+    "app/tests/physics.test.js": {
+      "bytes": 2404,
+      "sha256": "47dbaf2ccefa481079fc9c77717ac7b5ab1a6716d03703bf20298ad92b6717be"
+    },
+    "app/tests/full-scene.test.js": {
+      "bytes": 1740,
+      "sha256": "5e95e1c24ae403f94e97f602858a77cdc9b60b2833cfc8613d85899923b337d2"
+    },
+    "app/tests/interactions.test.js": {
+      "bytes": 2287,
+      "sha256": "bf6358824d106ed1c973663811dfa22aba73e80c2fcdcae7d8678268b1f3a1bc"
+    },
+    "README.md": {
+      "bytes": 20397,
+      "sha256": "187fa3fa2ba882f88ff092f71efd5c6ea858b9126bcd3917ea7651db03e0a2e9"
+    },
+    "planning/m5-review.md": {
+      "bytes": 9565,
+      "sha256": "a356fe14ef54f159121f8e8ed4ecb06b6b8e6a174e04c238357deb6222f39cdd"
+    },
+    "planning/build_m5_review.py": {
+      "bytes": 7346,
+      "sha256": "9d9ee3fb45b707a17617a322337ddd13d1dc7af0ef0e710b4e74e90d67defaba"
+    },
+    "planning/m5-review/controls-review-check.js": {
+      "bytes": 11459,
+      "sha256": "ef047715dd59929cd238cb4074eff79e94de5e84990295f30e194e30017500c8"
+    },
+    "planning/m5-review/interaction-check.js": {
+      "bytes": 6101,
+      "sha256": "27f53cf509af76c15d90d7f01b89ca7158e22efb989db44f3ee2b3f7722687ef"
+    },
+    "planning/m5-review/mode-check.js": {
+      "bytes": 8207,
+      "sha256": "f5d60237c8c82906d478993fd369b2da0d507a134d0d29217756994c224fde57"
+    },
+    "planning/m5-review/route-check.js": {
+      "bytes": 6157,
+      "sha256": "cfab920a4eb46f83df4c0c5c5448ae6440f4b938cd996cf9b49d09569239234a"
+    },
+    "planning/m5-review/asset-report.json": {
+      "bytes": 355,
+      "sha256": "59eb98232752262932512c93bc65f255cc814c675c43bb38a6ae8378bb1cf9df"
+    },
+    "planning/m5-review/controls-review-report.json": {
+      "bytes": 18050,
+      "sha256": "1fe80afe440444bce660aeac0cd47a7dba204e286e5781830b2c4b3e4e7835e0"
+    },
+    "planning/m5-review/interaction-report.json": {
+      "bytes": 62078,
+      "sha256": "3c37616158c1b920ac8607b7c453b106bc1c003ab798f4d34e17416f6f2352bb"
+    },
+    "planning/m5-review/mode-report.json": {
+      "bytes": 10619,
+      "sha256": "981a8d289a9788cfca336512a18d6b2e9b43579748e8d491bd1cbb096b58d461"
+    },
+    "planning/m5-review/route-report.json": {
+      "bytes": 42999,
+      "sha256": "1dd01902dd2b8aaf16c80d0c0ea9946ab98ac64224a8637a4a4ecd1250cbe577"
+    },
+    "app/dist/assets/index-B69OpIUA.js": {
+      "bytes": 48096,
+      "sha256": "62042c4e24d2725c8e0f2bdc85000c3943c3b6068363477bae3bf6cd4a17c52b"
+    },
+    "app/dist/assets/react-DBevnrki.js": {
+      "bytes": 191918,
+      "sha256": "554841ab27931f12ef2e6ef904220664f4bcdf7d1bf3bf125497fe28e098688c"
+    },
+    "app/dist/assets/three-B5o1cOWt.js": {
+      "bytes": 572926,
+      "sha256": "b3173a0e96a742324c2dc891916c200844fa33eb836fe4469d3e7eab18a351f9"
+    }
+  },
+  "scope": "Local production verification. M6 owns repository release, separate Vercel project and deployed checks."
+}

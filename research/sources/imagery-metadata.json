@@ -1,0 +1,33 @@
+{
+  "source": "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/identify?geometry=-78.76434,34.00793&geometryType=esriGeometryPoint&sr=4326&layers=all:9&mapExtent=-78.7653,34.0075,-78.7637,34.0085&imageDisplay=1200,900,96&tolerance=1&returnGeometry=false&f=json",
+  "accessDate": "2026-09-04",
+  "data": {
+    "results": [
+      {
+        "layerId": 9,
+        "layerName": "30cm Resolution Metadata",
+        "displayFieldName": "NICE_NAME",
+        "value": "Vivid",
+        "attributes": {
+          "OBJECTID": "1301631",
+          "Shape": "Polygon",
+          "SRC_DATE": "20251030",
+          "SRC_RES": "0.34",
+          "SRC_ACC": "8.47",
+          "SAMP_RES": "0.3",
+          "SRC_DESC": "LG03",
+          "MinMapLevel": "12",
+          "MaxMapLevel": "19",
+          "NICE_NAME": "Vivid",
+          "DrawOrder": "80",
+          "SRC_DATE2": "10/30/2025",
+          "NICE_DESC": "Vantor",
+          "Shape_Length": "67655.622799",
+          "Shape_Area": "155925398.5",
+          "BlockName": "DYNAMIC_ESRI_50_US24_25Q4",
+          "ReleaseName": "Raster Basemaps 2026.R02"
+        }
+      }
+    ]
+  }
+}

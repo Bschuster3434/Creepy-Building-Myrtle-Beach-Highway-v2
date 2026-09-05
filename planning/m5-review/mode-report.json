@@ -1,0 +1,504 @@
+{
+  "chrome": {
+    "browser": "chrome",
+    "checks": [
+      {
+        "name": "capture rejection leaves usable fallback",
+        "pass": true
+      },
+      {
+        "name": "drag changes yaw and pitch without moving player",
+        "pass": true
+      },
+      {
+        "name": "mouse capture can recover",
+        "pass": true
+      },
+      {
+        "name": "captured mouse turns view",
+        "pass": true
+      },
+      {
+        "name": "Escape restores drag help",
+        "pass": true
+      },
+      {
+        "name": "KeyA moves after UI focus",
+        "pass": true
+      },
+      {
+        "name": "KeyD moves after UI focus",
+        "pass": true
+      },
+      {
+        "name": "ArrowLeft moves after UI focus",
+        "pass": true
+      },
+      {
+        "name": "ArrowRight moves after UI focus",
+        "pass": true
+      },
+      {
+        "name": "blur clears held keys",
+        "pass": true
+      },
+      {
+        "name": "editable controls keep their own input",
+        "pass": true
+      },
+      {
+        "name": "orbit enters and clears walking input 0",
+        "pass": true
+      },
+      {
+        "name": "orbit drag rotates 0",
+        "pass": true
+      },
+      {
+        "name": "orbit wheel zooms 0",
+        "pass": true
+      },
+      {
+        "name": "orbit keyboard rotates and zooms 0",
+        "pass": true
+      },
+      {
+        "name": "inspection input cannot operate doors 0",
+        "pass": true
+      },
+      {
+        "name": "orbit minimum distance bounded 0",
+        "pass": true
+      },
+      {
+        "name": "orbit maximum distance bounded 0",
+        "pass": true
+      },
+      {
+        "name": "top-down enters 0",
+        "pass": true
+      },
+      {
+        "name": "top-down drag pans without tilting 0",
+        "pass": true
+      },
+      {
+        "name": "top-down keyboard pans and zooms 0",
+        "pass": true
+      },
+      {
+        "name": "top-down max zoom bounded 0",
+        "pass": true
+      },
+      {
+        "name": "top-down min zoom bounded 0",
+        "pass": true
+      },
+      {
+        "name": "walking pose restored 0",
+        "pass": true,
+        "evidence": [
+          0,
+          1.83,
+          -6.85
+        ]
+      },
+      {
+        "name": "orbit enters and clears walking input 1",
+        "pass": true
+      },
+      {
+        "name": "orbit drag rotates 1",
+        "pass": true
+      },
+      {
+        "name": "orbit wheel zooms 1",
+        "pass": true
+      },
+      {
+        "name": "orbit keyboard rotates and zooms 1",
+        "pass": true
+      },
+      {
+        "name": "inspection input cannot operate doors 1",
+        "pass": true
+      },
+      {
+        "name": "orbit minimum distance bounded 1",
+        "pass": true
+      },
+      {
+        "name": "orbit maximum distance bounded 1",
+        "pass": true
+      },
+      {
+        "name": "top-down enters 1",
+        "pass": true
+      },
+      {
+        "name": "top-down drag pans without tilting 1",
+        "pass": true
+      },
+      {
+        "name": "top-down keyboard pans and zooms 1",
+        "pass": true
+      },
+      {
+        "name": "top-down max zoom bounded 1",
+        "pass": true
+      },
+      {
+        "name": "top-down min zoom bounded 1",
+        "pass": true
+      },
+      {
+        "name": "walking pose restored 1",
+        "pass": true,
+        "evidence": [
+          0,
+          1.83,
+          -6.85
+        ]
+      },
+      {
+        "name": "orbit enters and clears walking input 2",
+        "pass": true
+      },
+      {
+        "name": "orbit drag rotates 2",
+        "pass": true
+      },
+      {
+        "name": "orbit wheel zooms 2",
+        "pass": true
+      },
+      {
+        "name": "orbit keyboard rotates and zooms 2",
+        "pass": true
+      },
+      {
+        "name": "inspection input cannot operate doors 2",
+        "pass": true
+      },
+      {
+        "name": "orbit minimum distance bounded 2",
+        "pass": true
+      },
+      {
+        "name": "orbit maximum distance bounded 2",
+        "pass": true
+      },
+      {
+        "name": "top-down enters 2",
+        "pass": true
+      },
+      {
+        "name": "top-down drag pans without tilting 2",
+        "pass": true
+      },
+      {
+        "name": "top-down keyboard pans and zooms 2",
+        "pass": true
+      },
+      {
+        "name": "top-down max zoom bounded 2",
+        "pass": true
+      },
+      {
+        "name": "top-down min zoom bounded 2",
+        "pass": true
+      },
+      {
+        "name": "walking pose restored 2",
+        "pass": true,
+        "evidence": [
+          0,
+          1.83,
+          -6.85
+        ]
+      },
+      {
+        "name": "Orbit button works",
+        "pass": true
+      },
+      {
+        "name": "Top-down button works",
+        "pass": true
+      },
+      {
+        "name": "Walk button works",
+        "pass": true
+      },
+      {
+        "name": "resized top-down view remains valid",
+        "pass": true
+      },
+      {
+        "name": "apron reset exits inspection coherently",
+        "pass": true
+      },
+      {
+        "name": "no runtime errors",
+        "pass": true,
+        "evidence": []
+      },
+      {
+        "name": "normal URL exposes no QA API",
+        "pass": true
+      }
+    ],
+    "errors": [],
+    "pass": true
+  },
+  "edge": {
+    "browser": "edge",
+    "checks": [
+      {
+        "name": "capture rejection leaves usable fallback",
+        "pass": true
+      },
+      {
+        "name": "drag changes yaw and pitch without moving player",
+        "pass": true
+      },
+      {
+        "name": "mouse capture can recover",
+        "pass": true
+      },
+      {
+        "name": "captured mouse turns view",
+        "pass": true
+      },
+      {
+        "name": "Escape restores drag help",
+        "pass": true
+      },
+      {
+        "name": "KeyA moves after UI focus",
+        "pass": true
+      },
+      {
+        "name": "KeyD moves after UI focus",
+        "pass": true
+      },
+      {
+        "name": "ArrowLeft moves after UI focus",
+        "pass": true
+      },
+      {
+        "name": "ArrowRight moves after UI focus",
+        "pass": true
+      },
+      {
+        "name": "blur clears held keys",
+        "pass": true
+      },
+      {
+        "name": "editable controls keep their own input",
+        "pass": true
+      },
+      {
+        "name": "orbit enters and clears walking input 0",
+        "pass": true
+      },
+      {
+        "name": "orbit drag rotates 0",
+        "pass": true
+      },
+      {
+        "name": "orbit wheel zooms 0",
+        "pass": true
+      },
+      {
+        "name": "orbit keyboard rotates and zooms 0",
+        "pass": true
+      },
+      {
+        "name": "inspection input cannot operate doors 0",
+        "pass": true
+      },
+      {
+        "name": "orbit minimum distance bounded 0",
+        "pass": true
+      },
+      {
+        "name": "orbit maximum distance bounded 0",
+        "pass": true
+      },
+      {
+        "name": "top-down enters 0",
+        "pass": true
+      },
+      {
+        "name": "top-down drag pans without tilting 0",
+        "pass": true
+      },
+      {
+        "name": "top-down keyboard pans and zooms 0",
+        "pass": true
+      },
+      {
+        "name": "top-down max zoom bounded 0",
+        "pass": true
+      },
+      {
+        "name": "top-down min zoom bounded 0",
+        "pass": true
+      },
+      {
+        "name": "walking pose restored 0",
+        "pass": true,
+        "evidence": [
+          0,
+          1.83,
+          -6.85
+        ]
+      },
+      {
+        "name": "orbit enters and clears walking input 1",
+        "pass": true
+      },
+      {
+        "name": "orbit drag rotates 1",
+        "pass": true
+      },
+      {
+        "name": "orbit wheel zooms 1",
+        "pass": true
+      },
+      {
+        "name": "orbit keyboard rotates and zooms 1",
+        "pass": true
+      },
+      {
+        "name": "inspection input cannot operate doors 1",
+        "pass": true
+      },
+      {
+        "name": "orbit minimum distance bounded 1",
+        "pass": true
+      },
+      {
+        "name": "orbit maximum distance bounded 1",
+        "pass": true
+      },
+      {
+        "name": "top-down enters 1",
+        "pass": true
+      },
+      {
+        "name": "top-down drag pans without tilting 1",
+        "pass": true
+      },
+      {
+        "name": "top-down keyboard pans and zooms 1",
+        "pass": true
+      },
+      {
+        "name": "top-down max zoom bounded 1",
+        "pass": true
+      },
+      {
+        "name": "top-down min zoom bounded 1",
+        "pass": true
+      },
+      {
+        "name": "walking pose restored 1",
+        "pass": true,
+        "evidence": [
+          0,
+          1.83,
+          -6.85
+        ]
+      },
+      {
+        "name": "orbit enters and clears walking input 2",
+        "pass": true
+      },
+      {
+        "name": "orbit drag rotates 2",
+        "pass": true
+      },
+      {
+        "name": "orbit wheel zooms 2",
+        "pass": true
+      },
+      {
+        "name": "orbit keyboard rotates and zooms 2",
+        "pass": true
+      },
+      {
+        "name": "inspection input cannot operate doors 2",
+        "pass": true
+      },
+      {
+        "name": "orbit minimum distance bounded 2",
+        "pass": true
+      },
+      {
+        "name": "orbit maximum distance bounded 2",
+        "pass": true
+      },
+      {
+        "name": "top-down enters 2",
+        "pass": true
+      },
+      {
+        "name": "top-down drag pans without tilting 2",
+        "pass": true
+      },
+      {
+        "name": "top-down keyboard pans and zooms 2",
+        "pass": true
+      },
+      {
+        "name": "top-down max zoom bounded 2",
+        "pass": true
+      },
+      {
+        "name": "top-down min zoom bounded 2",
+        "pass": true
+      },
+      {
+        "name": "walking pose restored 2",
+        "pass": true,
+        "evidence": [
+          0,
+          1.83,
+          -6.85
+        ]
+      },
+      {
+        "name": "Orbit button works",
+        "pass": true
+      },
+      {
+        "name": "Top-down button works",
+        "pass": true
+      },
+      {
+        "name": "Walk button works",
+        "pass": true
+      },
+      {
+        "name": "resized top-down view remains valid",
+        "pass": true
+      },
+      {
+        "name": "apron reset exits inspection coherently",
+        "pass": true
+      },
+      {
+        "name": "no runtime errors",
+        "pass": true,
+        "evidence": []
+      },
+      {
+        "name": "normal URL exposes no QA API",
+        "pass": true
+      }
+    ],
+    "errors": [],
+    "pass": true
+  }
+}

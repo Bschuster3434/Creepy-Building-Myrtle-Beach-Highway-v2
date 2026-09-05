@@ -1,0 +1,18 @@
+{
+  "milestone": "M4",
+  "triangles": 151809,
+  "meshObjects": 99,
+  "materials": 33,
+  "textureCount": 25,
+  "estimatedTextureMiBWithMipmaps": 33.333333333333336,
+  "glbBytes": 10462996,
+  "colliders": 105,
+  "constructionObjects": 1549,
+  "trees": 8,
+  "rooms": [
+    "sales",
+    "crate storage",
+    "packing",
+    "rear passage"
+  ]
+}

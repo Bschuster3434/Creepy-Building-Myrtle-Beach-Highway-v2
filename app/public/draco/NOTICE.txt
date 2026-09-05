@@ -1,0 +1,10 @@
+Draco decoder files are redistributed unchanged from Three.js 0.180.0,
+examples/jsm/libs/draco/gltf.
+
+Draco is Copyright 2016 The Draco Authors, licensed under Apache License 2.0.
+Project: https://github.com/google/draco
+License: https://github.com/google/draco/blob/main/LICENSE
+Three.js distribution notes: https://github.com/mrdoob/three.js/tree/r180/examples/jsm/libs/draco
+
+These files decode the M4 scene's KHR_draco_mesh_compression geometry locally.
+No external decoder service is contacted.

@@ -1,0 +1,8117 @@
+[
+  {
+    "name": "Apron_cross_joint",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Apron_joint",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Apron_joint.001",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Apron_joint.002",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Bag_fold",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Bench_back_rail",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Bin_name",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Bin_name.001",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Bin_name.002",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Canopy_base_plate",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Canopy_base_plate.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Canopy_base_plate.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Canopy_front_fascia",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_post_0",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_post_1",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_post_2",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.002",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.003",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.004",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.005",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.006",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.007",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.008",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.009",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.010",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.011",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.012",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.013",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.014",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.015",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.016",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.017",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.018",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.019",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.020",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.021",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.022",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.023",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.024",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.025",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.026",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.027",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.028",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.029",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.030",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.031",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.032",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.033",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.034",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.035",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.036",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.037",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.038",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.039",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_seam.040",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Canopy_sheet",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Ceiling_cornice",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Ceiling_cornice.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Chair_back_post",
+    "material": "M3_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_back_post.001",
+    "material": "M3_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_back_slat",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_back_slat.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_back_slat.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_crest",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_cross_stretcher",
+    "material": "M3_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_seat",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_side_stretcher",
+    "material": "M3_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_side_stretcher.001",
+    "material": "M3_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_turned_leg",
+    "material": "M3_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_turned_leg.001",
+    "material": "M3_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_turned_leg.002",
+    "material": "M3_wood",
+    "parent": null
+  },
+  {
+    "name": "Chair_turned_leg.003",
+    "material": "M3_wood",
+    "parent": null
+  },
+  {
+    "name": "Chimney",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Chimney_cap",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Chimney_flue",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_face",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Clock_rim",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.008",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.009",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.010",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Clock_tick.011",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Closed_right_infill_0",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Closed_right_infill_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Closed_right_infill_2",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Conduit_clip",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Conduit_clip.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Conduit_clip.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Context_crossarm",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Context_crossarm.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Context_insulator",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Context_insulator.001",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Context_insulator.002",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Context_insulator.003",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Context_insulator.004",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Context_insulator.005",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Context_pole",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Context_pole.001",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Counter_carcass",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_face",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_face.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_face.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_face.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_face.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_pull",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_pull.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_pull.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_pull.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Counter_drawer_pull.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.001",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.002",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.003",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.004",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.005",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.006",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.007",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.008",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.009",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.010",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.011",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.012",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.013",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.014",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.015",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.016",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.017",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.018",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.019",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.020",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.021",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.022",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.023",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.024",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.025",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.026",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.027",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.028",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_edge_wear.029",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_front_rail",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_front_rail.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_front_stile",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_front_stile.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_front_stile.002",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_front_stile.003",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_front_stile.004",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_front_stile.005",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_lower_cupboard",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_lower_cupboard.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_lower_cupboard.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_lower_cupboard.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_lower_cupboard.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_pencil",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_plinth",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_recess_panel",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_recess_panel.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_recess_panel.002",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_recess_panel.003",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_recess_panel.004",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Counter_return_top",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_right_return",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Counter_top",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_marks",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_brace",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_brace.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_lip",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_lip.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_lip.002",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_lip.003",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_lip.004",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_lip.005",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_lip.006",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_lip.007",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_post",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_post.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_post.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_post.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_post.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_post.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_post.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_post.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.018",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.019",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.020",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.021",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.022",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.023",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.024",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.025",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.026",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.027",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.028",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.029",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.030",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_rack_shelf.031",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Crate_tally",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Crate_tally_board",
+    "material": "M3_chalkboard",
+    "parent": null
+  },
+  {
+    "name": "Cupboard_pull",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Cupboard_pull.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Cupboard_pull.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Cupboard_pull.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Cupboard_pull.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "D01L_front_glass",
+    "material": "M3_glass",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "D01L_front_rail_0",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "D01L_front_rail_2",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "D01L_front_stile_0",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "D01L_front_stile_1",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "D01R_front_glass",
+    "material": "M3_glass",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "D01R_front_rail_0",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "D01R_front_rail_2",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "D01R_front_stile_0",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "D01R_front_stile_1",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "D02_left_store_leaf",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "D03_right_store_leaf",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "D04_rear_leaf",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Display_inner_apron",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_apron.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_casing",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_casing.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_casing.002",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_casing.003",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_head",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_head.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_head_casing",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_head_casing.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_jamb",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_jamb.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_jamb.002",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_jamb.003",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_sill",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_inner_sill.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Display_lintel_-1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Display_lintel_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Display_sill_nose",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Display_sill_nose.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Display_spandrel_-1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Display_spandrel_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Door_bottom_rail",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_bottom_rail.001",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_cross_muntin",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_cross_muntin.001",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_cross_muntin.002",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_cross_muntin.003",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_cross_muntin.004",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_cross_muntin.005",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_cross_muntin.006",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_cross_muntin.007",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_cross_rail",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.001",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.002",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.003",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.004",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.005",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.006",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.007",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.008",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.009",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.010",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.011",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_cross_rail.012",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_cross_rail.013",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_cross_rail.014",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_cross_rail.015",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_cross_rail.016",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_cross_rail.017",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_edge_stile",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_edge_stile.001",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_edge_stile.002",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_edge_stile.003",
+    "material": "M3_aged_wood",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_edge_stile.004",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_edge_stile.005",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_edge_stile.006",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_edge_stile.007",
+    "material": "M3_aged_wood",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_edge_stile.008",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_edge_stile.009",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_edge_stile.010",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_edge_stile.011",
+    "material": "M3_aged_wood",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_handle",
+    "material": "M3_iron",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_handle.001",
+    "material": "M3_iron",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_handle.002",
+    "material": "M3_iron",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_handle.003",
+    "material": "M3_iron",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_hinge",
+    "material": "M3_iron",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_hinge.001",
+    "material": "M3_iron",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_hinge.002",
+    "material": "M3_iron",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_hinge.003",
+    "material": "M3_iron",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_hinge_barrel",
+    "material": "M3_iron",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_hinge_barrel.001",
+    "material": "M3_iron",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_hinge_barrel.002",
+    "material": "M3_iron",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_hinge_barrel.003",
+    "material": "M3_iron",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_hinge_barrel.004",
+    "material": "M3_iron",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_hinge_barrel.005",
+    "material": "M3_iron",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop",
+    "material": "M3_aged_paint",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.001",
+    "material": "M3_aged_paint",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.002",
+    "material": "M3_aged_paint",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.003",
+    "material": "M3_aged_paint",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.004",
+    "material": "M3_aged_paint",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.005",
+    "material": "M3_aged_paint",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.006",
+    "material": "M3_aged_paint",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.007",
+    "material": "M3_aged_paint",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.008",
+    "material": "M3_aged_paint",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.009",
+    "material": "M3_aged_paint",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.010",
+    "material": "M3_aged_paint",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_inner_cross_stop.011",
+    "material": "M3_aged_paint",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_inner_glazing_stop",
+    "material": "M3_aged_paint",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_inner_glazing_stop.001",
+    "material": "M3_aged_paint",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_inner_glazing_stop.002",
+    "material": "M3_aged_paint",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_inner_glazing_stop.003",
+    "material": "M3_aged_paint",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_inner_glazing_stop.004",
+    "material": "M3_aged_paint",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_inner_glazing_stop.005",
+    "material": "M3_aged_paint",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Door_lever",
+    "material": "M3_dull_tin",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_lever.001",
+    "material": "M3_dull_tin",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_lever.002",
+    "material": "M3_dull_tin",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_lever.003",
+    "material": "M3_dull_tin",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_lever.004",
+    "material": "M3_dull_tin",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_lever.005",
+    "material": "M3_dull_tin",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_lock_plate",
+    "material": "M3_iron",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_lock_plate.001",
+    "material": "M3_iron",
+    "parent": "D02_left_store_hinge"
+  },
+  {
+    "name": "Door_lock_plate.002",
+    "material": "M3_iron",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_lock_plate.003",
+    "material": "M3_iron",
+    "parent": "D03_right_store_hinge"
+  },
+  {
+    "name": "Door_lock_plate.004",
+    "material": "M3_iron",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_lock_plate.005",
+    "material": "M3_iron",
+    "parent": "D04_rear_hinge"
+  },
+  {
+    "name": "Door_muntin",
+    "material": "M3_trim",
+    "parent": "D01L_front_hinge"
+  },
+  {
+    "name": "Door_muntin.001",
+    "material": "M3_trim",
+    "parent": "D01R_front_hinge"
+  },
+  {
+    "name": "Downpipe_strap",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Downpipe_strap.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Downpipe_strap.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Downpipe_strap.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount.008",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Drawer_pull_mount.009",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.008",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.009",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.010",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.011",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.012",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.013",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.014",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.015",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.016",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.017",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.018",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.019",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.020",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.021",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.022",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.023",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.024",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.025",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.026",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.027",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.028",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.029",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.030",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.031",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.032",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.033",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.034",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_label_holder.035",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.018",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Empty_shelf.019",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Entry_head",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Faded_notice",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_notice.001",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.001",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.002",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.003",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.004",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.005",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.006",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.007",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.008",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.009",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.010",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.011",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.012",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.013",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.014",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.015",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.016",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.017",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.018",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.019",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.020",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.021",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.022",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.023",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.024",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.025",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.026",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.027",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.028",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.029",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.030",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.031",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.032",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.033",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.034",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Faded_shelf_label.035",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Flat_ceiling",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Floor",
+    "material": "M3_floor",
+    "parent": null
+  },
+  {
+    "name": "Floor_shrinkage_hairline",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Floor_shrinkage_hairline.001",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Floor_shrinkage_hairline.002",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Floor_shrinkage_hairline.003",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Folded_paper_bag",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Folded_paper_bag.001",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Folded_paper_bag.002",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Folded_paper_bag.003",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Folded_paper_bag.004",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Folded_paper_bag.005",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Folded_paper_bag.006",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Foliage_0",
+    "material": "M3_leaf0",
+    "parent": null
+  },
+  {
+    "name": "Foliage_1",
+    "material": "M3_leaf1",
+    "parent": null
+  },
+  {
+    "name": "Foliage_2",
+    "material": "M3_leaf2",
+    "parent": null
+  },
+  {
+    "name": "Foliage_3",
+    "material": "M3_leaf3",
+    "parent": null
+  },
+  {
+    "name": "Front_apron",
+    "material": "M3_floor",
+    "parent": null
+  },
+  {
+    "name": "Front_coping",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Front_parapet",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Front_pier_-1_0",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Front_pier_-1_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Front_pier_1_0",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Front_pier_1_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Ground",
+    "material": "M3_grass",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_crossbar",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_crossbar.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_crossbar.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_frame",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_frame.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_handle",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_handle.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_toe",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_wheel",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Handtruck_wheel.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "High_front_left_vent",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "High_front_side_vent",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "High_vent_louvre",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "High_vent_louvre.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "High_vent_louvre.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "High_vent_louvre.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "High_vent_louvre.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "High_vent_louvre.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "High_vent_louvre.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "High_vent_louvre.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Highway_carriageway",
+    "material": "M3_asphalt",
+    "parent": null
+  },
+  {
+    "name": "Highway_carriageway.001",
+    "material": "M3_asphalt",
+    "parent": null
+  },
+  {
+    "name": "Highway_edge",
+    "material": "M3_road_yellow",
+    "parent": null
+  },
+  {
+    "name": "Highway_edge.001",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_edge.002",
+    "material": "M3_road_yellow",
+    "parent": null
+  },
+  {
+    "name": "Highway_edge.003",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.001",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.002",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.003",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.004",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.005",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.006",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.007",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.008",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.009",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.010",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.011",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.012",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.013",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.014",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.015",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.016",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.017",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.018",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.019",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.020",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.021",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.022",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.023",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.024",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Highway_lane_dash.025",
+    "material": "M3_road_white",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.001",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.002",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.003",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.004",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.005",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.006",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.007",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.008",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.009",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.010",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Infill_perimeter.011",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Interior_floor_finish",
+    "material": "M3_aged_floor",
+    "parent": null
+  },
+  {
+    "name": "Interior_plaster",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Interior_plaster.001",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Light_switch_plate",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Light_switch_toggle",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Low_slope_roof",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Low_vent_-1_0",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Low_vent_-1_1",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Low_vent_-1_2",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Low_vent_1_0",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Low_vent_1_1",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Low_vent_1_2",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_corner",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_corner.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_corner.002",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_corner.003",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_door_stile",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_door_stile.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_door_track",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.002",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.003",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.004",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.005",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.006",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.007",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.008",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.009",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.010",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.011",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.012",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.013",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.014",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.015",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.016",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.017",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.018",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.019",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.020",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.021",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.022",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.023",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.024",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.025",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.026",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.027",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.028",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.029",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.030",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.031",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.032",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.033",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.034",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.035",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.036",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.037",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.038",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.039",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.040",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.041",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.042",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.043",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.044",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.045",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.046",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_front_batten.047",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_gable",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_gable.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof.001",
+    "material": "M3_roof",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.001",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.002",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.003",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.004",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.005",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.006",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.007",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.008",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.009",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.010",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.011",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.012",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.013",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.014",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.015",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.016",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.017",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.018",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.019",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.020",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.021",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.022",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.023",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.024",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.025",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.026",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.027",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.028",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.029",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.030",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.031",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.032",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.033",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.034",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.035",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.036",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.037",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.038",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.039",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.040",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.041",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.042",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.043",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.044",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.045",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.046",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.047",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.048",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.049",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.050",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.051",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.052",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.053",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.054",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.055",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.056",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.057",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.058",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.059",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.060",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.061",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.062",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.063",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.064",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_roof_seam.065",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.002",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.003",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.004",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.005",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.006",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.007",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.008",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.009",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.010",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.011",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.012",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.013",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.014",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.015",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.016",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.017",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.018",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.019",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.020",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.021",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.022",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.023",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.024",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.025",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.026",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.027",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.028",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.029",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.030",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.031",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.032",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.033",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.034",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.035",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.036",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.037",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.038",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.039",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.040",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.041",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.042",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.043",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.044",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.045",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.046",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.047",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.048",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.049",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.050",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.051",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.052",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.053",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.054",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.055",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.056",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.057",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.058",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.059",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.060",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.061",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.062",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.063",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.064",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.065",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.066",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.067",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.068",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_side_batten.069",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_siding",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Neighbor_sliding_door",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Notice_board",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Notice_pin",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Notice_pin.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Old_chalk_price",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Old_chalk_price.001",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Old_chalk_price.002",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Old_fixing",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Old_fixing.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Old_fixing.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Old_fixing.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Old_fixing.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Old_fixing.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Old_fixing.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Old_fixing.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Old_notice_ghost",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Old_notice_ghost.001",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Old_outlet_plate",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Old_outlet_plate.001",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Old_outlet_plate.002",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Old_outlet_plate.003",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Outlet_slot",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Outlet_slot.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Outlet_slot.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Outlet_slot.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Outlet_slot.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Outlet_slot.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Outlet_slot.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Outlet_slot.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.008",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.009",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.010",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.011",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.012",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.013",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.014",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.015",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.016",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.017",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.018",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.019",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.020",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.021",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.022",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.023",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.024",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.025",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.026",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.027",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.028",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.029",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.030",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.031",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.032",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.033",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.034",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.035",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.036",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.037",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.038",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.039",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.040",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.041",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.042",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.043",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.044",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.045",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.046",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.047",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.048",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.049",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.050",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.051",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.052",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.053",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.054",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.055",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.056",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.057",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.058",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.059",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.060",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.061",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.062",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.063",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.064",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.065",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.066",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.067",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.068",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.069",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.070",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Overhead_wire.071",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Packing_bench_leg",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_bench_leg.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_bench_leg.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_bench_leg.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_bench_top",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_lower_shelf",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_bottom.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_corner.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_end.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_tray_long_slat.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Packing_wall_rail",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Paper_roll",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Paper_roll_axle",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Parapet_-1_0",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_-1_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_-1_2",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_-1_3",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_-1_4",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_1_0",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_1_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_1_2",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_1_3",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_1_4",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_-1_0",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_-1_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_-1_2",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_-1_3",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_-1_4",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_1_0",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_1_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_1_2",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_1_3",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Parapet_coping_1_4",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Partition_room_cornice",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Partition_room_cornice.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Partition_room_skirting",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Partition_room_skirting.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Partition_short_skirting",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Partition_short_skirting.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Passage_short_skirting",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Passage_short_skirting.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Passage_skirting",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Passage_skirting.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Passage_wall_-1_0",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Passage_wall_-1_1",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Passage_wall_1_0",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Passage_wall_1_1",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Pendant_bulb",
+    "material": "M3_bulb",
+    "parent": null
+  },
+  {
+    "name": "Pendant_bulb.001",
+    "material": "M3_bulb",
+    "parent": null
+  },
+  {
+    "name": "Pendant_bulb.002",
+    "material": "M3_bulb",
+    "parent": null
+  },
+  {
+    "name": "Pendant_cord",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Pendant_cord.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Pendant_cord.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Pendant_shade",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Pendant_shade.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Pendant_shade.002",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Plaster_hairline",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Plaster_hairline.001",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Plaster_hairline.002",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Plaster_hairline.003",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Plaster_hairline.004",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Plaster_hairline.005",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Plaster_hairline.006",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Plaster_hairline.007",
+    "material": "M3_hairline",
+    "parent": null
+  },
+  {
+    "name": "Plaster_paint_loss",
+    "material": "M3_plaster_patch",
+    "parent": null
+  },
+  {
+    "name": "Plaster_paint_loss.001",
+    "material": "M3_plaster_patch",
+    "parent": null
+  },
+  {
+    "name": "Plaster_paint_loss.002",
+    "material": "M3_plaster_patch",
+    "parent": null
+  },
+  {
+    "name": "Plaster_paint_loss.003",
+    "material": "M3_plaster_patch",
+    "parent": null
+  },
+  {
+    "name": "Plaster_paint_loss.004",
+    "material": "M3_plaster_patch",
+    "parent": null
+  },
+  {
+    "name": "Plaster_paint_loss.005",
+    "material": "M3_plaster_patch",
+    "parent": null
+  },
+  {
+    "name": "Pole_insulator",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Pole_insulator.001",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Pole_insulator.002",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Post_anchor",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Post_anchor.001",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Post_anchor.002",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Post_anchor.003",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Post_anchor.004",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Post_anchor.005",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Price_board_frame",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Price_board_frame.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Price_board_frame.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Price_board_frame.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bench_leg.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_back_slat",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_back_slat.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_back_slat.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_back_slat.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_back_slat.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_back_slat.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_back_slat.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_back_slat.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_back_slat.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_end_slat.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_floor_slat.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_front",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_front.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_front.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_label",
+    "material": "M3_chalkboard",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_label.001",
+    "material": "M3_chalkboard",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_label.002",
+    "material": "M3_chalkboard",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_nail",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_nail.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_nail.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_nail.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_nail.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_nail.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_occupancy",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_occupancy.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_bin_occupancy.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Produce_board_title",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Produce_price_board",
+    "material": "M3_chalkboard",
+    "parent": null
+  },
+  {
+    "name": "Rear_bulb_Crates",
+    "material": "M3_bulb",
+    "parent": null
+  },
+  {
+    "name": "Rear_bulb_Packing",
+    "material": "M3_bulb",
+    "parent": null
+  },
+  {
+    "name": "Rear_bulb_Rear_passage",
+    "material": "M3_bulb",
+    "parent": null
+  },
+  {
+    "name": "Rear_conduit",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Rear_conduit.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Rear_conduit.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Rear_door_header",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Rear_door_jamb",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Rear_door_jamb.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Rear_downpipe",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Rear_downpipe.001",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Rear_fascia",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Rear_fascia.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Rear_fixture_Crates",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Rear_fixture_Packing",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Rear_fixture_Rear_passage",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Rear_gutter",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Rear_landing",
+    "material": "M3_floor",
+    "parent": null
+  },
+  {
+    "name": "Rear_lintel",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Rear_room_baseboard",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Rear_room_baseboard.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Rear_room_cornice",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Rear_room_cornice.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Rear_service_yard",
+    "material": "M3_gravel",
+    "parent": null
+  },
+  {
+    "name": "Rear_step",
+    "material": "M3_floor",
+    "parent": null
+  },
+  {
+    "name": "Rear_switch_Crates",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Rear_switch_Packing",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Rear_switch_Rear_passage",
+    "material": "M3_ceramic",
+    "parent": null
+  },
+  {
+    "name": "Rear_switch_toggle_Crates",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Rear_switch_toggle_Packing",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Rear_switch_toggle_Rear_passage",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Rear_threshold",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Rear_wall",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Rear_wall.001",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Rear_wall_ghost",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Rear_wall_ghost.001",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Rear_wall_ghost.002",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Rear_wall_ghost.003",
+    "material": "M3_wall_ghost",
+    "parent": null
+  },
+  {
+    "name": "Recess_front_lintel",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.018",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.019",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.020",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.021",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.022",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.023",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.024",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.025",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.026",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.027",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.028",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.029",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.030",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.031",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.032",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.033",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_bottom.034",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.018",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.019",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.020",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.021",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.022",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.023",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.024",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.025",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.026",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_corner.027",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.018",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.019",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.020",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.021",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.022",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.023",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.024",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.025",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.026",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.027",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.028",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.029",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.030",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.031",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.032",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.033",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.034",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.035",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.036",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.037",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.038",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.039",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.040",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_end.041",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.008",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.009",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.010",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.011",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.012",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.013",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.014",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.015",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.016",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.017",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.018",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.019",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.020",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.021",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.022",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.023",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.024",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.025",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.026",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.027",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.028",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.029",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.030",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.031",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.032",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.033",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.034",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.035",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.036",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.037",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.038",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.039",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.040",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_crate_long_slat.041",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Retained_hook",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Retained_hook.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Retained_hook.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Return_base_-1",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Return_base_1",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Return_inner_casing",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Return_inner_casing.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Return_inner_casing.002",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Return_inner_casing.003",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Return_inner_frame_rail",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Return_inner_frame_rail.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Return_inner_frame_rail.002",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Return_inner_frame_rail.003",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Return_lintel_-1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Return_lintel_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Right_verge_path",
+    "material": "M3_gravel",
+    "parent": null
+  },
+  {
+    "name": "Road_apron_connection",
+    "material": "M3_gravel",
+    "parent": null
+  },
+  {
+    "name": "Roll_stand",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Roll_stand.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Room_label",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Room_label.001",
+    "material": "M3_faded_chalk",
+    "parent": null
+  },
+  {
+    "name": "Room_nameplate",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Room_nameplate.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Scale_base",
+    "material": "M3_scale_enamel",
+    "parent": null
+  },
+  {
+    "name": "Scale_column",
+    "material": "M3_scale_enamel",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_bezel",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_face",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_housing",
+    "material": "M3_scale_enamel",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.008",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.009",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.010",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.011",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.012",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.013",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.014",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.015",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.016",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.017",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.018",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.019",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.020",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.021",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.022",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.023",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.024",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.025",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.026",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.027",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.028",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.029",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.030",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.031",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.032",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.033",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.034",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.035",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.036",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.037",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.038",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.039",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_dial_tick.040",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_foot",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_foot.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_foot.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_foot.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_needle",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_numeral",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_numeral.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_numeral.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_numeral.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_numeral.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Scale_pan",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Scale_pan_rim",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Scale_pan_rim.001",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Scale_pan_rim.002",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Scale_pan_rim.003",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Scale_pan_stem",
+    "material": "M3_dull_tin",
+    "parent": null
+  },
+  {
+    "name": "Scale_units",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_back",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_back.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_back.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_back.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.008",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.009",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.010",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.011",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.012",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.013",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.014",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_fastener.015",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.002",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.003",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.004",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.005",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.006",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.007",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.008",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.009",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.010",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_label_edge.011",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.001",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.002",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.003",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.004",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.005",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.006",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.007",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.008",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.009",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.010",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.011",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.012",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.013",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.014",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.015",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.016",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.017",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.018",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.019",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.020",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.021",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.022",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.023",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.024",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.025",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.026",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.027",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.028",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.029",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.030",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.031",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.032",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.033",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.034",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.035",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.036",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.037",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.038",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_lip_wear.039",
+    "material": "M3_edge_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_upright",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_upright.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_upright.002",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_upright.003",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_upright.004",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_upright.005",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_upright.006",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Shelf_upright.007",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Side_service_strip",
+    "material": "M3_gravel",
+    "parent": null
+  },
+  {
+    "name": "Side_wall_-1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Side_wall_1",
+    "material": "M3_brick",
+    "parent": null
+  },
+  {
+    "name": "Skirting",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Skirting.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Spool_end",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Spool_end.001",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Stopped_clock_hour",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Stopped_clock_minute",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Store_door_head_-1",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Store_door_head_1",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Store_front_-1",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Store_front_1",
+    "material": "M3_aged_plaster",
+    "parent": null
+  },
+  {
+    "name": "Store_rear_baseboard",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Store_rear_baseboard.001",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Storeroom_head",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Storeroom_head.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Storeroom_jamb",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Storeroom_jamb.001",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Storeroom_jamb.002",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Storeroom_jamb.003",
+    "material": "M3_aged_paint",
+    "parent": null
+  },
+  {
+    "name": "Switch_conduit",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Threshold_landing",
+    "material": "M3_floor",
+    "parent": null
+  },
+  {
+    "name": "Threshold_lower_step",
+    "material": "M3_floor",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.001",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.002",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.003",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.004",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.005",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.006",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.007",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.008",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.009",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.010",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.011",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.012",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.013",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.014",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.015",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.016",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.017",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.018",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.019",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.020",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.021",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.022",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.023",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.024",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.025",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.026",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.027",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.028",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.029",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.030",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.031",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.032",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.033",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.034",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.035",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.036",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.037",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.038",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.039",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.040",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.041",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.042",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.043",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.044",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.045",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.046",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.047",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.048",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.049",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.050",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.051",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.052",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.053",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.054",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.055",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.056",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.057",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.058",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.059",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.060",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.061",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.062",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.063",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.064",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.065",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.066",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.067",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.068",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.069",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.070",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.071",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.072",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.073",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.074",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.075",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.076",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.077",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.078",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.079",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.080",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.081",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.082",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.083",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.084",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.085",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.086",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.087",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.088",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.089",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.090",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.091",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.092",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.093",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.094",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.095",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.096",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.097",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.098",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.099",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.100",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.101",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.102",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.103",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.104",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.105",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.106",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.107",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.108",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.109",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.110",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_branch.111",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_trunk",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_trunk.001",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_trunk.002",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_trunk.003",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_trunk.004",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_trunk.005",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_trunk.006",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Tree_trunk.007",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Twine_spool",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Unrolled_paper",
+    "material": "M3_paper",
+    "parent": null
+  },
+  {
+    "name": "Utility_crossarm",
+    "material": "M3_aged_wood",
+    "parent": null
+  },
+  {
+    "name": "Utility_pole",
+    "material": "M3_bark",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.001",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.002",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.003",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.004",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.005",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.006",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.007",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.008",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.009",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.010",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.011",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.012",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.013",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.014",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.015",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.016",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.017",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.018",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.019",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.020",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.021",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.022",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Vent_louvre.023",
+    "material": "M3_iron",
+    "parent": null
+  },
+  {
+    "name": "Verge_grass",
+    "material": "M3_leaf2",
+    "parent": null
+  },
+  {
+    "name": "W01_display_head",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W01_display_jamb_0",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W01_display_jamb_1",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W01_display_pane",
+    "material": "M3_glass",
+    "parent": null
+  },
+  {
+    "name": "W01_display_sill",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W02_display_head",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W02_display_jamb_0",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W02_display_jamb_1",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W02_display_pane",
+    "material": "M3_glass",
+    "parent": null
+  },
+  {
+    "name": "W02_display_sill",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W03_return_head",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W03_return_jamb_0",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W03_return_jamb_1",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W03_return_pane",
+    "material": "M3_glass",
+    "parent": null
+  },
+  {
+    "name": "W03_return_sill",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W04_inner_sash_rail",
+    "material": "M3_aged_paint",
+    "parent": "W04_top_hinge"
+  },
+  {
+    "name": "W04_inner_sash_rail.001",
+    "material": "M3_aged_paint",
+    "parent": "W04_top_hinge"
+  },
+  {
+    "name": "W04_inner_sash_stile",
+    "material": "M3_aged_paint",
+    "parent": "W04_top_hinge"
+  },
+  {
+    "name": "W04_inner_sash_stile.001",
+    "material": "M3_aged_paint",
+    "parent": "W04_top_hinge"
+  },
+  {
+    "name": "W04_return_head",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W04_return_jamb_0",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W04_return_jamb_1",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "W04_return_pane",
+    "material": "M3_glass",
+    "parent": "W04_top_hinge"
+  },
+  {
+    "name": "W04_return_sill",
+    "material": "M3_trim",
+    "parent": null
+  },
+  {
+    "name": "Window_latch",
+    "material": "M3_iron",
+    "parent": "W04_top_hinge"
+  }
+]

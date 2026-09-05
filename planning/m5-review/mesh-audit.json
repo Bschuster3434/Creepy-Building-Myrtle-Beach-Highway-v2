@@ -1,0 +1,6 @@
+{
+  "wallFloorAndBackingRays": 2444,
+  "misses": [],
+  "portalObstructions": [],
+  "scope": "Actual saved mesh rays along floor/wall seams, all opaque passage runs (excluding deliberate door openings), side-wall interiors, switch supports and the clear rear portal. Sampling cannot prove every triangle is defect-free."
+}

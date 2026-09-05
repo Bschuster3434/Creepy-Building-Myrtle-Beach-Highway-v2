@@ -1,0 +1,539 @@
+{
+  "conditions": {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "coldNetwork": "25 Mbps down / 5 Mbps up / 40 ms latency / cache disabled",
+    "readyMs": 4783.700000047684,
+    "resources": [
+      {
+        "name": "http://127.0.0.1:5173/assets/index-D1Lqmpfs.js",
+        "transferSize": 9019,
+        "duration": 58.60000002384186
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/index-DYusw78c.css",
+        "transferSize": 1914,
+        "duration": 58.10000002384186
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/react-DBevnrki.js",
+        "transferSize": 60444,
+        "duration": 90
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/three-J5RF7w6k.js",
+        "transferSize": 145685,
+        "duration": 122
+      },
+      {
+        "name": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Libre+Caslon+Display&display=swap",
+        "transferSize": 813,
+        "duration": 108.60000002384186
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/complete.glb",
+        "transferSize": 13332188,
+        "duration": 4398.199999928474
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/complete.json",
+        "transferSize": 4306,
+        "duration": 52.09999990463257
+      },
+      {
+        "name": "http://127.0.0.1:5173/draco/draco_wasm_wrapper.js",
+        "transferSize": 12048,
+        "duration": 65.70000004768372
+      },
+      {
+        "name": "http://127.0.0.1:5173/draco/draco_decoder.wasm",
+        "transferSize": 192720,
+        "duration": 127.89999997615814
+      }
+    ],
+    "navigationReadyMs": 5030.399999976158,
+    "gpu": "ANGLE (Intel, Intel(R) Graphics (0x00007D67) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "wallReadyMs": 5038
+  },
+  "checks": [
+    {
+      "name": "pointer capture enters",
+      "pass": true
+    },
+    {
+      "name": "closed front door stops real keyboard movement",
+      "pass": true,
+      "evidence": {
+        "readyMs": 4783.700000047684,
+        "frameSamples": 152,
+        "p50Ms": 12.100000000000364,
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 193,
+        "triangles": 597642,
+        "textures": 24,
+        "geometries": 99,
+        "pixelRatio": 1,
+        "viewport": [
+          1920,
+          1080
+        ],
+        "position": [
+          0,
+          1.829999770806272,
+          -0.010399999999999798
+        ],
+        "yaw": 0,
+        "pitch": 0,
+        "door": 0,
+        "windowAmount": 0,
+        "lightsOn": false,
+        "locked": true
+      }
+    },
+    {
+      "name": "door repeated toggle 0",
+      "pass": true
+    },
+    {
+      "name": "door repeated toggle 1",
+      "pass": true
+    },
+    {
+      "name": "door repeated toggle 2",
+      "pass": true
+    },
+    {
+      "name": "door repeated toggle 3",
+      "pass": true
+    },
+    {
+      "name": "open door admits walking to the service counter",
+      "pass": true,
+      "evidence": {
+        "readyMs": 4783.700000047684,
+        "frameSamples": 829,
+        "p50Ms": 12.100000000000364,
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 179,
+        "triangles": 595266,
+        "textures": 24,
+        "geometries": 99,
+        "pixelRatio": 1,
+        "viewport": [
+          1920,
+          1080
+        ],
+        "position": [
+          0,
+          1.8299999999999996,
+          -2.14799
+        ],
+        "yaw": 0,
+        "pitch": 0,
+        "door": 1,
+        "windowAmount": 0,
+        "lightsOn": false,
+        "locked": true
+      }
+    },
+    {
+      "name": "left counter access admits real walking",
+      "pass": true,
+      "evidence": {
+        "readyMs": 4783.700000047684,
+        "frameSamples": 927,
+        "p50Ms": 12.100000000000364,
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 175,
+        "triangles": 593626,
+        "textures": 24,
+        "geometries": 99,
+        "pixelRatio": 1,
+        "viewport": [
+          1920,
+          1080
+        ],
+        "position": [
+          -2.78,
+          1.83,
+          -3.52314
+        ],
+        "yaw": 0,
+        "pitch": 0,
+        "door": 1,
+        "windowAmount": 0,
+        "lightsOn": false,
+        "locked": true
+      }
+    },
+    {
+      "name": "serving aisle connects behind the counter",
+      "pass": true,
+      "evidence": {
+        "readyMs": 4783.700000047684,
+        "frameSamples": 1056,
+        "p50Ms": 12.100000000000364,
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 128,
+        "triangles": 593022,
+        "textures": 24,
+        "geometries": 99,
+        "pixelRatio": 1,
+        "viewport": [
+          1920,
+          1080
+        ],
+        "position": [
+          0.032109999999995774,
+          1.83,
+          -3.52314
+        ],
+        "yaw": -1.5707963267948963,
+        "pitch": 0,
+        "door": 1,
+        "windowAmount": 0,
+        "lightsOn": false,
+        "locked": true
+      }
+    },
+    {
+      "name": "shelving blocks the player",
+      "pass": true,
+      "evidence": {
+        "readyMs": 4783.700000047684,
+        "frameSamples": 1283,
+        "p50Ms": 12.100000000000364,
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 124,
+        "triangles": 591382,
+        "textures": 24,
+        "geometries": 99,
+        "pixelRatio": 1,
+        "viewport": [
+          1920,
+          1080
+        ],
+        "position": [
+          2.6214299999999966,
+          1.8299999999999996,
+          -4.7
+        ],
+        "yaw": -1.5707963267948963,
+        "pitch": 0,
+        "door": 1,
+        "windowAmount": 0,
+        "lightsOn": false,
+        "locked": true
+      }
+    },
+    {
+      "name": "light switch is reachable by aim",
+      "pass": true
+    },
+    {
+      "name": "actual light toggles 0",
+      "pass": true
+    },
+    {
+      "name": "actual light toggles 1",
+      "pass": true
+    },
+    {
+      "name": "actual light toggles 2",
+      "pass": true
+    },
+    {
+      "name": "actual light toggles 3",
+      "pass": true
+    },
+    {
+      "name": "approved pane is reachable by aim",
+      "pass": true
+    },
+    {
+      "name": "window repeated tilt 0",
+      "pass": true
+    },
+    {
+      "name": "window repeated tilt 1",
+      "pass": true
+    },
+    {
+      "name": "window repeated tilt 2",
+      "pass": true
+    },
+    {
+      "name": "window repeated tilt 3",
+      "pass": true
+    },
+    {
+      "name": "continuous central passage reaches the rear door",
+      "pass": true,
+      "evidence": {
+        "readyMs": 4783.700000047684,
+        "frameSamples": 2741,
+        "p50Ms": 12.100000000000364,
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 135,
+        "triangles": 584734,
+        "textures": 24,
+        "geometries": 99,
+        "pixelRatio": 1,
+        "viewport": [
+          1920,
+          1080
+        ],
+        "position": [
+          0,
+          1.83,
+          -13.51305000000004
+        ],
+        "yaw": 0,
+        "pitch": 0,
+        "door": 1,
+        "windowAmount": 0.9999999999999996,
+        "lightsOn": true,
+        "locked": true
+      }
+    },
+    {
+      "name": "storeroom entrance -1 is reachable",
+      "pass": true,
+      "evidence": {
+        "readyMs": 4783.700000047684,
+        "frameSamples": 2845,
+        "p50Ms": 12.099999999999454,
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 127,
+        "triangles": 591514,
+        "textures": 24,
+        "geometries": 99,
+        "pixelRatio": 1,
+        "viewport": [
+          1920,
+          1080
+        ],
+        "position": [
+          -1.9084800000000064,
+          1.83,
+          -6.85
+        ],
+        "yaw": 1.5707963267948963,
+        "pitch": 0,
+        "door": 1,
+        "windowAmount": 0.9999999999999996,
+        "lightsOn": true,
+        "locked": true
+      }
+    },
+    {
+      "name": "storeroom entrance 1 is reachable",
+      "pass": true,
+      "evidence": {
+        "readyMs": 4783.700000047684,
+        "frameSamples": 2937,
+        "p50Ms": 12.099999999999454,
+        "p95Ms": 18.200000000000728,
+        "drawCalls": 127,
+        "triangles": 591514,
+        "textures": 24,
+        "geometries": 99,
+        "pixelRatio": 1,
+        "viewport": [
+          1920,
+          1080
+        ],
+        "position": [
+          1.9212900000000037,
+          1.83,
+          -6.85
+        ],
+        "yaw": -1.5707963267948963,
+        "pitch": 0,
+        "door": 1,
+        "windowAmount": 0.9999999999999996,
+        "lightsOn": true,
+        "locked": true
+      }
+    },
+    {
+      "name": "focus loss clears held movement",
+      "pass": true
+    },
+    {
+      "name": "pointer release restores mouse-look control",
+      "pass": true
+    },
+    {
+      "name": "pointer capture resumes",
+      "pass": true
+    },
+    {
+      "name": "no browser runtime errors",
+      "pass": true,
+      "evidence": []
+    }
+  ],
+  "routeSamples": [
+    {
+      "readyMs": 4783.700000047684,
+      "frameSamples": 146,
+      "p50Ms": 12.10000000000582,
+      "p95Ms": 18.200000000004366,
+      "drawCalls": 189,
+      "triangles": 597466,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        0,
+        1.8299820731005774,
+        -0.717379999999989
+      ],
+      "yaw": 0,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0.9999999999999997,
+      "lightsOn": true,
+      "locked": true
+    },
+    {
+      "readyMs": 4783.700000047684,
+      "frameSamples": 242,
+      "p50Ms": 12.10000000000582,
+      "p95Ms": 18.200000000004366,
+      "drawCalls": 175,
+      "triangles": 593626,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        -2.78,
+        1.83,
+        -3.535739999999999
+      ],
+      "yaw": 0,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0.9999999999999997,
+      "lightsOn": true,
+      "locked": true
+    },
+    {
+      "readyMs": 4783.700000047684,
+      "frameSamples": 370,
+      "p50Ms": 12.099999999998545,
+      "p95Ms": 18.200000000004366,
+      "drawCalls": 128,
+      "triangles": 593022,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        0.006279999999990096,
+        1.83,
+        -3.55
+      ],
+      "yaw": -1.5707963267948963,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0.9999999999999997,
+      "lightsOn": true,
+      "locked": true
+    },
+    {
+      "readyMs": 4783.700000047684,
+      "frameSamples": 528,
+      "p50Ms": 12.099999999998545,
+      "p95Ms": 18.200000000004366,
+      "drawCalls": 154,
+      "triangles": 592702,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        0.41187802168100224,
+        1.83,
+        -6.896508926158129
+      ],
+      "yaw": -0.12246105741734145,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0.9999999999999997,
+      "lightsOn": true,
+      "locked": true
+    },
+    {
+      "readyMs": 4783.700000047684,
+      "frameSamples": 825,
+      "p50Ms": 12.099999999998545,
+      "p95Ms": 18.19999999999709,
+      "drawCalls": 136,
+      "triangles": 584778,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        0,
+        1.83,
+        -13.161130000000043
+      ],
+      "yaw": 0,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0.9999999999999997,
+      "lightsOn": true,
+      "locked": true
+    }
+  ],
+  "performance": {
+    "readyMs": 4783.700000047684,
+    "frameSamples": 825,
+    "p50Ms": 12.099999999998545,
+    "p95Ms": 18.19999999999709,
+    "drawCalls": 136,
+    "triangles": 584778,
+    "textures": 24,
+    "geometries": 99,
+    "pixelRatio": 1,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "position": [
+      0,
+      1.83,
+      -13.161130000000043
+    ],
+    "yaw": 0,
+    "pitch": 0,
+    "door": 1,
+    "windowAmount": 0.9999999999999997,
+    "lightsOn": true,
+    "locked": true
+  },
+  "errors": []
+}

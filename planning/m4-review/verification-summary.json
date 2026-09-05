@@ -1,0 +1,21 @@
+{
+  "milestone": "M4",
+  "revision": "adversarial review, September 5",
+  "nodeTestsPassed": 9,
+  "browserChecks": {
+    "browser-report": 27,
+    "full-scene-report": 13,
+    "edge-report": 13
+  },
+  "constructionContactChecks": 100,
+  "savedMeshProbes": 2444,
+  "missingImages": [],
+  "hashes": {
+    "model/myrtle-beach-v2-complete.blend": "8b12d0e377abed06ef356313573e7d570580e2d0cbcf689cf9f75d5419dbf103",
+    "app/public/assets/complete.glb": "c31f346347be93b22291f680a6b09b2f2984055474c0902ffc3643c3379ccca8",
+    "app/public/assets/complete.json": "1751514e44c928271820138450e6438d448c147c56a726d12b9e86bfd95e68a4",
+    "model/build_full.py": "1d1ad04f2ff2a19d26835a920ceb7efd15ec9f15508fd30f47b653acd496e668",
+    "model/full_scene_finish.py": "081a31dd66251c36fdd00592634b7b491c4477157d2692c581ac166f57daf147",
+    "model/audit_full.py": "2e0ff7bbbcb9a0a2688bfcfe621deaf81f37d9ccc6fd748fd937cd1835a9127f"
+  }
+}

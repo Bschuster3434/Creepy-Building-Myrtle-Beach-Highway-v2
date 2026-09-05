@@ -1,0 +1,86 @@
+{
+  "checks": [
+    {
+      "name": "explicit drag entry clears opening panel",
+      "pass": true
+    },
+    {
+      "name": "drag entry requires no mouse lock",
+      "pass": true
+    },
+    {
+      "name": "dragging right turns view right",
+      "pass": true,
+      "evidence": -0.44
+    },
+    {
+      "name": "dragging left turns view left",
+      "pass": true,
+      "evidence": -4.163336342344337e-17
+    },
+    {
+      "name": "vertical drag looks down",
+      "pass": true,
+      "evidence": -0.33999999999999997
+    },
+    {
+      "name": "looking does not move the walker",
+      "pass": true
+    },
+    {
+      "name": "released mouse does not keep turning",
+      "pass": true
+    },
+    {
+      "name": "drag continues across an overlay using pointer capture",
+      "pass": true
+    },
+    {
+      "name": "capture rejection leaves view unobstructed",
+      "pass": true
+    },
+    {
+      "name": "horizontal drag works after capture rejection",
+      "pass": true
+    },
+    {
+      "name": "native mouse capture can resume",
+      "pass": true
+    },
+    {
+      "name": "captured mouse movement rotates horizontal view",
+      "pass": true,
+      "evidence": {
+        "before": -2,
+        "after": -2.516
+      }
+    },
+    {
+      "name": "drag look works immediately after Escape",
+      "pass": true
+    },
+    {
+      "name": "sideways walking still works in drag mode",
+      "pass": true
+    },
+    {
+      "name": "E operates aimed front door in drag mode",
+      "pass": true
+    },
+    {
+      "name": "first entry clears the opening panel even if capture is denied",
+      "pass": true
+    },
+    {
+      "name": "first-entry fallback permits horizontal looking",
+      "pass": true
+    },
+    {
+      "name": "no runtime errors",
+      "pass": true,
+      "evidence": []
+    }
+  ],
+  "errors": [],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+}

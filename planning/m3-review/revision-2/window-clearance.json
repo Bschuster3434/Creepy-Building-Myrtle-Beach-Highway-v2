@@ -1,0 +1,8 @@
+{
+  "windowDoorSweepSamples": 320,
+  "meshIntersections": [],
+  "windowInwardTiltDegrees": 15,
+  "glazingGridRayChecks": 108,
+  "glazingGridRayFailures": 0,
+  "scope": "Moving pane, sash stops and latch versus both detailed door leaves at 1 degree window / 5 degree door intervals; actual opaque grid checked from both faces. Discrete mesh checks, not a continuous engineering clearance guarantee."
+}

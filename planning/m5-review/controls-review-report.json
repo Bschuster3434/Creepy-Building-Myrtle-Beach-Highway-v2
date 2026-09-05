@@ -1,0 +1,730 @@
+{
+  "chrome": {
+    "browser": "chrome",
+    "checks": [
+      {
+        "name": "single entry click enables first-person mouse look",
+        "pass": true
+      },
+      {
+        "name": "no secondary mouse activation or drag entry button",
+        "pass": true
+      },
+      {
+        "name": "unheld mouse motion turns walking view",
+        "pass": true,
+        "evidence": {
+          "before": [
+            -0.976,
+            0.588
+          ],
+          "after": [
+            -1.576,
+            0.288
+          ]
+        }
+      },
+      {
+        "name": "walking works immediately with captured mouse",
+        "pass": true
+      },
+      {
+        "name": "E door operation preserved",
+        "pass": true
+      },
+      {
+        "name": "2 enters active orbit and frees cursor 0",
+        "pass": true
+      },
+      {
+        "name": "no-click left trackpad scroll orbits in reversed direction 0",
+        "pass": true,
+        "evidence": {
+          "delta": -0.5398184875187534
+        }
+      },
+      {
+        "name": "horizontal trackpad scroll does not zoom or tilt 0",
+        "pass": true
+      },
+      {
+        "name": "no-click right trackpad scroll reverses left 0",
+        "pass": true
+      },
+      {
+        "name": "left-button orbit works in reversed direction 0",
+        "pass": true
+      },
+      {
+        "name": "right-button drag orbits in same reversed direction 0",
+        "pass": true
+      },
+      {
+        "name": "scroll zooms toward building 0",
+        "pass": true
+      },
+      {
+        "name": "held arrow rotates continuously before repeat delay 0",
+        "pass": true
+      },
+      {
+        "name": "orbit input preserves body and interactions 0",
+        "pass": true
+      },
+      {
+        "name": "1 returns directly to mouse-look 0",
+        "pass": true
+      },
+      {
+        "name": "walking pose preserved 0",
+        "pass": true
+      },
+      {
+        "name": "2 enters active orbit and frees cursor 1",
+        "pass": true
+      },
+      {
+        "name": "no-click left trackpad scroll orbits in reversed direction 1",
+        "pass": true,
+        "evidence": {
+          "delta": -0.5398738685750459
+        }
+      },
+      {
+        "name": "horizontal trackpad scroll does not zoom or tilt 1",
+        "pass": true
+      },
+      {
+        "name": "no-click right trackpad scroll reverses left 1",
+        "pass": true
+      },
+      {
+        "name": "left-button orbit works in reversed direction 1",
+        "pass": true
+      },
+      {
+        "name": "right-button drag orbits in same reversed direction 1",
+        "pass": true
+      },
+      {
+        "name": "scroll zooms toward building 1",
+        "pass": true
+      },
+      {
+        "name": "held arrow rotates continuously before repeat delay 1",
+        "pass": true
+      },
+      {
+        "name": "orbit input preserves body and interactions 1",
+        "pass": true
+      },
+      {
+        "name": "1 returns directly to mouse-look 1",
+        "pass": true
+      },
+      {
+        "name": "walking pose preserved 1",
+        "pass": true
+      },
+      {
+        "name": "2 enters active orbit and frees cursor 2",
+        "pass": true
+      },
+      {
+        "name": "no-click left trackpad scroll orbits in reversed direction 2",
+        "pass": true,
+        "evidence": {
+          "delta": -0.5398736160597659
+        }
+      },
+      {
+        "name": "horizontal trackpad scroll does not zoom or tilt 2",
+        "pass": true
+      },
+      {
+        "name": "no-click right trackpad scroll reverses left 2",
+        "pass": true
+      },
+      {
+        "name": "left-button orbit works in reversed direction 2",
+        "pass": true
+      },
+      {
+        "name": "right-button drag orbits in same reversed direction 2",
+        "pass": true
+      },
+      {
+        "name": "scroll zooms toward building 2",
+        "pass": true
+      },
+      {
+        "name": "held arrow rotates continuously before repeat delay 2",
+        "pass": true
+      },
+      {
+        "name": "orbit input preserves body and interactions 2",
+        "pass": true
+      },
+      {
+        "name": "1 returns directly to mouse-look 2",
+        "pass": true
+      },
+      {
+        "name": "walking pose preserved 2",
+        "pass": true
+      },
+      {
+        "name": "KeyA continuously orbits in requested direction",
+        "pass": true
+      },
+      {
+        "name": "KeyA keeps distance and elevation",
+        "pass": true
+      },
+      {
+        "name": "ArrowLeft continuously orbits in requested direction",
+        "pass": true
+      },
+      {
+        "name": "ArrowLeft keeps distance and elevation",
+        "pass": true
+      },
+      {
+        "name": "KeyD continuously orbits in requested direction",
+        "pass": true
+      },
+      {
+        "name": "KeyD keeps distance and elevation",
+        "pass": true
+      },
+      {
+        "name": "ArrowRight continuously orbits in requested direction",
+        "pass": true
+      },
+      {
+        "name": "ArrowRight keeps distance and elevation",
+        "pass": true
+      },
+      {
+        "name": "KeyS zooms out",
+        "pass": true
+      },
+      {
+        "name": "KeyS zoom does not tilt or orbit",
+        "pass": true
+      },
+      {
+        "name": "ArrowDown zooms out",
+        "pass": true
+      },
+      {
+        "name": "ArrowDown zoom does not tilt or orbit",
+        "pass": true
+      },
+      {
+        "name": "KeyW zooms in",
+        "pass": true
+      },
+      {
+        "name": "KeyW zoom does not tilt or orbit",
+        "pass": true
+      },
+      {
+        "name": "ArrowUp zooms in",
+        "pass": true
+      },
+      {
+        "name": "ArrowUp zoom does not tilt or orbit",
+        "pass": true
+      },
+      {
+        "name": "diagonal trackpad gesture rotates and zooms without clicking",
+        "pass": true
+      },
+      {
+        "name": "vertical trackpad gesture only zooms",
+        "pass": true
+      },
+      {
+        "name": "focus loss clears pending trackpad easing",
+        "pass": true
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 0",
+        "pass": true,
+        "evidence": 1.2165274588788488
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 1",
+        "pass": true,
+        "evidence": 1.2210133026613839
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 2",
+        "pass": true,
+        "evidence": 1.22092197599432
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 3",
+        "pass": true,
+        "evidence": 1.2197685091366077
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 4",
+        "pass": true,
+        "evidence": 1.2227696200176197
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 5",
+        "pass": true,
+        "evidence": 1.2226503992727373
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 6",
+        "pass": true,
+        "evidence": 1.2217333711086316
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 7",
+        "pass": true,
+        "evidence": 1.2225367333784443
+      },
+      {
+        "name": "orbit passes a complete 360-degree turn",
+        "pass": true,
+        "evidence": 9.767921370448594
+      },
+      {
+        "name": "orbit eases after drag release",
+        "pass": true
+      },
+      {
+        "name": "orbit easing settles without endless drift",
+        "pass": true
+      },
+      {
+        "name": "orbit minimum distance remains bounded",
+        "pass": true
+      },
+      {
+        "name": "orbit maximum distance remains bounded",
+        "pass": true
+      },
+      {
+        "name": "top-down pan remains functional",
+        "pass": true
+      },
+      {
+        "name": "top-down held keys pan and zoom",
+        "pass": true
+      },
+      {
+        "name": "top-down returns directly to first person",
+        "pass": true
+      },
+      {
+        "name": "Escape releases cursor",
+        "pass": true
+      },
+      {
+        "name": "single canvas click resumes mouse look",
+        "pass": true
+      },
+      {
+        "name": "focus loss still clears walking input",
+        "pass": true
+      },
+      {
+        "name": "capture rejection exposes automatic fallback",
+        "pass": true
+      },
+      {
+        "name": "automatic fallback can still look",
+        "pass": true
+      },
+      {
+        "name": "1 retries default mouse look after rejection",
+        "pass": true
+      },
+      {
+        "name": "Walk button also enables mouse look directly",
+        "pass": true
+      },
+      {
+        "name": "apron reset closes notes and resumes first-person view",
+        "pass": true
+      },
+      {
+        "name": "no runtime errors",
+        "pass": true,
+        "evidence": []
+      }
+    ],
+    "errors": [],
+    "pass": true
+  },
+  "edge": {
+    "browser": "edge",
+    "checks": [
+      {
+        "name": "single entry click enables first-person mouse look",
+        "pass": true
+      },
+      {
+        "name": "no secondary mouse activation or drag entry button",
+        "pass": true
+      },
+      {
+        "name": "unheld mouse motion turns walking view",
+        "pass": true,
+        "evidence": {
+          "before": [
+            -0.976,
+            0.588
+          ],
+          "after": [
+            -1.576,
+            0.288
+          ]
+        }
+      },
+      {
+        "name": "walking works immediately with captured mouse",
+        "pass": true
+      },
+      {
+        "name": "E door operation preserved",
+        "pass": true
+      },
+      {
+        "name": "2 enters active orbit and frees cursor 0",
+        "pass": true
+      },
+      {
+        "name": "no-click left trackpad scroll orbits in reversed direction 0",
+        "pass": true,
+        "evidence": {
+          "delta": -0.5398738685750457
+        }
+      },
+      {
+        "name": "horizontal trackpad scroll does not zoom or tilt 0",
+        "pass": true
+      },
+      {
+        "name": "no-click right trackpad scroll reverses left 0",
+        "pass": true
+      },
+      {
+        "name": "left-button orbit works in reversed direction 0",
+        "pass": true
+      },
+      {
+        "name": "right-button drag orbits in same reversed direction 0",
+        "pass": true
+      },
+      {
+        "name": "scroll zooms toward building 0",
+        "pass": true
+      },
+      {
+        "name": "held arrow rotates continuously before repeat delay 0",
+        "pass": true
+      },
+      {
+        "name": "orbit input preserves body and interactions 0",
+        "pass": true
+      },
+      {
+        "name": "1 returns directly to mouse-look 0",
+        "pass": true
+      },
+      {
+        "name": "walking pose preserved 0",
+        "pass": true
+      },
+      {
+        "name": "2 enters active orbit and frees cursor 1",
+        "pass": true
+      },
+      {
+        "name": "no-click left trackpad scroll orbits in reversed direction 1",
+        "pass": true,
+        "evidence": {
+          "delta": -0.539857502505295
+        }
+      },
+      {
+        "name": "horizontal trackpad scroll does not zoom or tilt 1",
+        "pass": true
+      },
+      {
+        "name": "no-click right trackpad scroll reverses left 1",
+        "pass": true
+      },
+      {
+        "name": "left-button orbit works in reversed direction 1",
+        "pass": true
+      },
+      {
+        "name": "right-button drag orbits in same reversed direction 1",
+        "pass": true
+      },
+      {
+        "name": "scroll zooms toward building 1",
+        "pass": true
+      },
+      {
+        "name": "held arrow rotates continuously before repeat delay 1",
+        "pass": true
+      },
+      {
+        "name": "orbit input preserves body and interactions 1",
+        "pass": true
+      },
+      {
+        "name": "1 returns directly to mouse-look 1",
+        "pass": true
+      },
+      {
+        "name": "walking pose preserved 1",
+        "pass": true
+      },
+      {
+        "name": "2 enters active orbit and frees cursor 2",
+        "pass": true
+      },
+      {
+        "name": "no-click left trackpad scroll orbits in reversed direction 2",
+        "pass": true,
+        "evidence": {
+          "delta": -0.5398738685750463
+        }
+      },
+      {
+        "name": "horizontal trackpad scroll does not zoom or tilt 2",
+        "pass": true
+      },
+      {
+        "name": "no-click right trackpad scroll reverses left 2",
+        "pass": true
+      },
+      {
+        "name": "left-button orbit works in reversed direction 2",
+        "pass": true
+      },
+      {
+        "name": "right-button drag orbits in same reversed direction 2",
+        "pass": true
+      },
+      {
+        "name": "scroll zooms toward building 2",
+        "pass": true
+      },
+      {
+        "name": "held arrow rotates continuously before repeat delay 2",
+        "pass": true
+      },
+      {
+        "name": "orbit input preserves body and interactions 2",
+        "pass": true
+      },
+      {
+        "name": "1 returns directly to mouse-look 2",
+        "pass": true
+      },
+      {
+        "name": "walking pose preserved 2",
+        "pass": true
+      },
+      {
+        "name": "KeyA continuously orbits in requested direction",
+        "pass": true
+      },
+      {
+        "name": "KeyA keeps distance and elevation",
+        "pass": true
+      },
+      {
+        "name": "ArrowLeft continuously orbits in requested direction",
+        "pass": true
+      },
+      {
+        "name": "ArrowLeft keeps distance and elevation",
+        "pass": true
+      },
+      {
+        "name": "KeyD continuously orbits in requested direction",
+        "pass": true
+      },
+      {
+        "name": "KeyD keeps distance and elevation",
+        "pass": true
+      },
+      {
+        "name": "ArrowRight continuously orbits in requested direction",
+        "pass": true
+      },
+      {
+        "name": "ArrowRight keeps distance and elevation",
+        "pass": true
+      },
+      {
+        "name": "KeyS zooms out",
+        "pass": true
+      },
+      {
+        "name": "KeyS zoom does not tilt or orbit",
+        "pass": true
+      },
+      {
+        "name": "ArrowDown zooms out",
+        "pass": true
+      },
+      {
+        "name": "ArrowDown zoom does not tilt or orbit",
+        "pass": true
+      },
+      {
+        "name": "KeyW zooms in",
+        "pass": true
+      },
+      {
+        "name": "KeyW zoom does not tilt or orbit",
+        "pass": true
+      },
+      {
+        "name": "ArrowUp zooms in",
+        "pass": true
+      },
+      {
+        "name": "ArrowUp zoom does not tilt or orbit",
+        "pass": true
+      },
+      {
+        "name": "diagonal trackpad gesture rotates and zooms without clicking",
+        "pass": true
+      },
+      {
+        "name": "vertical trackpad gesture only zooms",
+        "pass": true
+      },
+      {
+        "name": "focus loss clears pending trackpad easing",
+        "pass": true
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 0",
+        "pass": true,
+        "evidence": 1.2105268335658987
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 1",
+        "pass": true,
+        "evidence": 1.2201671372765575
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 2",
+        "pass": true,
+        "evidence": 1.2217255130627056
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 3",
+        "pass": true,
+        "evidence": 1.2180097033929826
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 4",
+        "pass": true,
+        "evidence": 1.2236961789363319
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 5",
+        "pass": true,
+        "evidence": 1.2246236145407596
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 6",
+        "pass": true,
+        "evidence": 1.218858298730085
+      },
+      {
+        "name": "horizontal orbit continues in same reversed direction 7",
+        "pass": true,
+        "evidence": 1.2199797306274995
+      },
+      {
+        "name": "orbit passes a complete 360-degree turn",
+        "pass": true,
+        "evidence": 9.75758701013282
+      },
+      {
+        "name": "orbit eases after drag release",
+        "pass": true
+      },
+      {
+        "name": "orbit easing settles without endless drift",
+        "pass": true
+      },
+      {
+        "name": "orbit minimum distance remains bounded",
+        "pass": true
+      },
+      {
+        "name": "orbit maximum distance remains bounded",
+        "pass": true
+      },
+      {
+        "name": "top-down pan remains functional",
+        "pass": true
+      },
+      {
+        "name": "top-down held keys pan and zoom",
+        "pass": true
+      },
+      {
+        "name": "top-down returns directly to first person",
+        "pass": true
+      },
+      {
+        "name": "Escape releases cursor",
+        "pass": true
+      },
+      {
+        "name": "single canvas click resumes mouse look",
+        "pass": true
+      },
+      {
+        "name": "focus loss still clears walking input",
+        "pass": true
+      },
+      {
+        "name": "capture rejection exposes automatic fallback",
+        "pass": true
+      },
+      {
+        "name": "automatic fallback can still look",
+        "pass": true
+      },
+      {
+        "name": "1 retries default mouse look after rejection",
+        "pass": true
+      },
+      {
+        "name": "Walk button also enables mouse look directly",
+        "pass": true
+      },
+      {
+        "name": "apron reset closes notes and resumes first-person view",
+        "pass": true
+      },
+      {
+        "name": "no runtime errors",
+        "pass": true,
+        "evidence": []
+      }
+    ],
+    "errors": [],
+    "pass": true
+  }
+}

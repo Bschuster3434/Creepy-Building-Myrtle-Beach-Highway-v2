@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 540" role="img" aria-label="Longitudinal section through central passage">
+<rect width="1100" height="540" fill="#f6f4ed"/>
+<style>text{font-family:system-ui,sans-serif;fill:#243c3d}.small{font-size:12px}.dim{font-size:13px}.title{font-size:23px;font-weight:650}.room{font-size:15px;font-weight:600}</style>
+<text x="32" y="42" class="title">Longitudinal section through central passage</text>
+<text x="32" y="67" class="small">M2 / 4397 Hwy 9 W / provisional dimensions in metres / September 4, 2026</text>
+<rect x="125" y="380.46" width="810.9000000000001" height="9.54" fill="#777e74"/>
+<rect x="137.72" y="220.39999999999998" width="785.46" height="6.360000000000006" fill="#bac5bc"/>
+<path d="M125,193.89999999999998L935.9000000000001,209.8" stroke="#314648" stroke-width="7" stroke-dasharray=""/>
+<path d="M125,156.79999999999998L310.5,156.79999999999998" stroke="#9b614c" stroke-width="4" stroke-dasharray=""/>
+<path d="M310.5,167.39999999999998L496,167.39999999999998" stroke="#9b614c" stroke-width="4" stroke-dasharray=""/>
+<path d="M496,178.0L697.4000000000001,178.0" stroke="#9b614c" stroke-width="4" stroke-dasharray=""/>
+<path d="M697.4000000000001,188.60000000000002L824.5999999999999,188.60000000000002" stroke="#9b614c" stroke-width="4" stroke-dasharray=""/>
+<path d="M824.5999999999999,199.2L935.9000000000001,199.2" stroke="#9b614c" stroke-width="4" stroke-dasharray=""/>
+<path d="M310.5,156.79999999999998L310.5,167.39999999999998" stroke="#9b614c" stroke-width="4" stroke-dasharray=""/>
+<path d="M496,167.39999999999998L496,178.0" stroke="#9b614c" stroke-width="4" stroke-dasharray=""/>
+<path d="M697.4000000000001,178.0L697.4000000000001,188.60000000000002" stroke="#9b614c" stroke-width="4" stroke-dasharray=""/>
+<path d="M824.5999999999999,188.60000000000002L824.5999999999999,199.2" stroke="#9b614c" stroke-width="4" stroke-dasharray=""/>
+<path d="M48.150000000000006,228.35000000000002L125,221.45999999999998" stroke="#738d89" stroke-width="6" stroke-dasharray=""/>
+<path d="M48.150000000000006,390L48.150000000000006,228.35000000000002" stroke="#738d89" stroke-width="3" stroke-dasharray=""/>
+<path d="M141.165,380.46L141.165,266.51" stroke="#b17a35" stroke-width="3" stroke-dasharray=""/>
+<path d="M929.5400000000001,380.46L929.5400000000001,269.15999999999997" stroke="#b17a35" stroke-width="3" stroke-dasharray=""/>
+<path d="M591.4000000000001,380.46L591.4000000000001,226.76" stroke="#8c9f9c" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="135" y="112" class="dim">Front parapet +4.40</text>
+<text x="760" y="166" class="dim">Rear parapet +3.60</text>
+<text x="300" y="240" class="dim">Roof +3.70 → +3.40; fall 0.30 m / 1.96%</text>
+<text x="330" y="285" class="dim">Flat ceiling +3.08; 2.90 m clear above floor</text>
+<text x="300" y="340" class="dim">Eye +1.83 (1.65 m above floor)</text>
+<text x="340" y="413" class="dim">Floor +0.18; apron +0.07; ground datum 0.00</text>
+<path d="M178,293.01L914.7,293.01" stroke="#27766b" stroke-width="1" stroke-dasharray="6 4"/>
+<text x="32" y="468" class="small">Side parapet shown in projection. Ceiling remains level while roof and parapet descend independently.</text>
+<text x="32" y="490" class="small">Clear roof cavity is ~0.13 m rear to ~0.43 m front; structural framing and drainage remain unresolved.</text>
+<text x="32" y="512" class="small">Thresholds are provisional small steps. No measured levels, basement or upper floor are established.</text>
+</svg>

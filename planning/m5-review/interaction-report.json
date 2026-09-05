@@ -1,0 +1,3084 @@
+{
+  "chrome": {
+    "browser": "chrome",
+    "checks": [
+      {
+        "name": "door aim 0",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door click opens 0",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "door leaves other doors unchanged 0",
+        "pass": true
+      },
+      {
+        "name": "door aim 1",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door E closes 1",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            0
+          ],
+          [
+            "door",
+            0
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "door leaves other doors unchanged 1",
+        "pass": true
+      },
+      {
+        "name": "door aim 2",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door click opens 2",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "door leaves other doors unchanged 2",
+        "pass": true
+      },
+      {
+        "name": "door aim 3",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door E closes 3",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            0
+          ],
+          [
+            "door",
+            0
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "door leaves other doors unchanged 3",
+        "pass": true
+      },
+      {
+        "name": "door render and collision match throughout animation",
+        "pass": true,
+        "evidence": [
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8
+        ]
+      },
+      {
+        "name": "cratesDoor aim 0",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor click opens 0",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "cratesDoor leaves other doors unchanged 0",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor aim 1",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor E closes 1",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "cratesDoor leaves other doors unchanged 1",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor aim 2",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor click opens 2",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "cratesDoor leaves other doors unchanged 2",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor aim 3",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor E closes 3",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "cratesDoor leaves other doors unchanged 3",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor render and collision match throughout animation",
+        "pass": true,
+        "evidence": [
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8
+        ]
+      },
+      {
+        "name": "packingDoor aim 0",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor click opens 0",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "packingDoor leaves other doors unchanged 0",
+        "pass": true
+      },
+      {
+        "name": "packingDoor aim 1",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor E closes 1",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "packingDoor leaves other doors unchanged 1",
+        "pass": true
+      },
+      {
+        "name": "packingDoor aim 2",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor click opens 2",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "packingDoor leaves other doors unchanged 2",
+        "pass": true
+      },
+      {
+        "name": "packingDoor aim 3",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor E closes 3",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "packingDoor leaves other doors unchanged 3",
+        "pass": true
+      },
+      {
+        "name": "packingDoor render and collision match throughout animation",
+        "pass": true,
+        "evidence": [
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8
+        ]
+      },
+      {
+        "name": "rearDoor aim 0",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor click opens 0",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            1
+          ]
+        ]
+      },
+      {
+        "name": "rearDoor leaves other doors unchanged 0",
+        "pass": true
+      },
+      {
+        "name": "rearDoor aim 1",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor E closes 1",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "rearDoor leaves other doors unchanged 1",
+        "pass": true
+      },
+      {
+        "name": "rearDoor aim 2",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor click opens 2",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            1
+          ]
+        ]
+      },
+      {
+        "name": "rearDoor leaves other doors unchanged 2",
+        "pass": true
+      },
+      {
+        "name": "rearDoor aim 3",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor E closes 3",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "rearDoor leaves other doors unchanged 3",
+        "pass": true
+      },
+      {
+        "name": "rearDoor render and collision match throughout animation",
+        "pass": true,
+        "evidence": [
+          1.7470291959035476e-8,
+          1.1782398536340114e-8,
+          3.568943188724719e-8,
+          6.385800266624946e-8,
+          8.833133936110385e-8,
+          1.1209375212106639e-7,
+          1.3344156608188535e-7,
+          1.5656436777767633e-7
+        ]
+      },
+      {
+        "name": "light switch reachable",
+        "pass": true,
+        "evidence": "light"
+      },
+      {
+        "name": "light independently toggles light and bulb 0",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "light independently toggles light and bulb 1",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "light independently toggles light and bulb 2",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "light independently toggles light and bulb 3",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "cratesLight switch reachable",
+        "pass": true,
+        "evidence": "cratesLight"
+      },
+      {
+        "name": "cratesLight independently toggles light and bulb 0",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "cratesLight independently toggles light and bulb 1",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "cratesLight independently toggles light and bulb 2",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "cratesLight independently toggles light and bulb 3",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "packingLight switch reachable",
+        "pass": true,
+        "evidence": "packingLight"
+      },
+      {
+        "name": "packingLight independently toggles light and bulb 0",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "packingLight independently toggles light and bulb 1",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "packingLight independently toggles light and bulb 2",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "packingLight independently toggles light and bulb 3",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "passage switch reachable",
+        "pass": true,
+        "evidence": "passage"
+      },
+      {
+        "name": "passage independently toggles light and bulb 0",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": true,
+            "intensities": [
+              14,
+              11
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          }
+        }
+      },
+      {
+        "name": "passage independently toggles light and bulb 1",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "passage independently toggles light and bulb 2",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": true,
+            "intensities": [
+              14,
+              11
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          }
+        }
+      },
+      {
+        "name": "passage independently toggles light and bulb 3",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "window aimed 0",
+        "pass": true
+      },
+      {
+        "name": "window repeated operation 0",
+        "pass": true
+      },
+      {
+        "name": "window aimed 1",
+        "pass": true
+      },
+      {
+        "name": "window repeated operation 1",
+        "pass": true
+      },
+      {
+        "name": "window aimed 2",
+        "pass": true
+      },
+      {
+        "name": "window repeated operation 2",
+        "pass": true
+      },
+      {
+        "name": "window aimed 3",
+        "pass": true
+      },
+      {
+        "name": "window repeated operation 3",
+        "pass": true
+      },
+      {
+        "name": "walking body stops before the window opening envelope",
+        "pass": true,
+        "evidence": [
+          0.9686008035163887,
+          1.83,
+          -1.2137465696883316
+        ]
+      },
+      {
+        "name": "window clearance remains physically blocked",
+        "pass": true
+      },
+      {
+        "name": "door rejects unsafe closure",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor rejects unsafe closure",
+        "pass": true
+      },
+      {
+        "name": "packingDoor rejects unsafe closure",
+        "pass": true
+      },
+      {
+        "name": "rearDoor rejects unsafe closure",
+        "pass": true
+      },
+      {
+        "name": "door pauses safely if player enters during closing",
+        "pass": true,
+        "evidence": [
+          {
+            "name": "D01L_front_hinge",
+            "control": "door",
+            "label": "front doors",
+            "hinge": [
+              -0.699999988079071,
+              -0.3050000071525574
+            ],
+            "width": 0.7,
+            "closedAngle": 0,
+            "swingAngle": 1.658062789394613,
+            "restAngle": 0,
+            "halfThickness": 0.04,
+            "amount": 1,
+            "target": 1
+          },
+          {
+            "name": "D01R_front_hinge",
+            "control": "door",
+            "label": "front doors",
+            "hinge": [
+              0.699999988079071,
+              -0.3050000071525574
+            ],
+            "width": 0.7,
+            "closedAngle": 3.141592653589793,
+            "swingAngle": -1.658062789394613,
+            "restAngle": 3.1415927410125732,
+            "halfThickness": 0.04,
+            "amount": 1,
+            "target": 1
+          },
+          {
+            "name": "D02_left_store_hinge",
+            "control": "cratesDoor",
+            "label": "crate storeroom door",
+            "hinge": [
+              -0.8100000023841858,
+              -7.350000381469727
+            ],
+            "width": 1,
+            "closedAngle": -1.5707963267948966,
+            "swingAngle": -1.5707963267948966,
+            "restAngle": 3.1415927410125732,
+            "halfThickness": 0.085,
+            "amount": 1,
+            "target": 1
+          },
+          {
+            "name": "D03_right_store_hinge",
+            "control": "packingDoor",
+            "label": "packing room door",
+            "hinge": [
+              0.8100000023841858,
+              -7.350000381469727
+            ],
+            "width": 1,
+            "closedAngle": -1.5707963267948966,
+            "swingAngle": 1.5707963267948966,
+            "restAngle": 0,
+            "halfThickness": 0.085,
+            "amount": 1,
+            "target": 1
+          },
+          {
+            "name": "D04_rear_hinge",
+            "control": "rearDoor",
+            "label": "rear door",
+            "hinge": [
+              -0.5,
+              -15.180000305175781
+            ],
+            "width": 1,
+            "closedAngle": 0,
+            "swingAngle": 1.5707963267948966,
+            "restAngle": 1.5707963705062866,
+            "halfThickness": 0.085,
+            "amount": 0.48012999999999784,
+            "target": 0
+          }
+        ]
+      },
+      {
+        "name": "paused door finishes once player clears",
+        "pass": true
+      },
+      {
+        "name": "switch cannot be used through room wall",
+        "pass": true,
+        "evidence": null
+      },
+      {
+        "name": "no runtime errors",
+        "pass": true,
+        "evidence": []
+      }
+    ],
+    "errors": [],
+    "pass": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36"
+  },
+  "edge": {
+    "browser": "edge",
+    "checks": [
+      {
+        "name": "door aim 0",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door click opens 0",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "door leaves other doors unchanged 0",
+        "pass": true
+      },
+      {
+        "name": "door aim 1",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door E closes 1",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            0
+          ],
+          [
+            "door",
+            0
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "door leaves other doors unchanged 1",
+        "pass": true
+      },
+      {
+        "name": "door aim 2",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door click opens 2",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "door leaves other doors unchanged 2",
+        "pass": true
+      },
+      {
+        "name": "door aim 3",
+        "pass": true,
+        "evidence": "door"
+      },
+      {
+        "name": "door E closes 3",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            0
+          ],
+          [
+            "door",
+            0
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "door leaves other doors unchanged 3",
+        "pass": true
+      },
+      {
+        "name": "door render and collision match throughout animation",
+        "pass": true,
+        "evidence": [
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8
+        ]
+      },
+      {
+        "name": "cratesDoor aim 0",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor click opens 0",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "cratesDoor leaves other doors unchanged 0",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor aim 1",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor E closes 1",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "cratesDoor leaves other doors unchanged 1",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor aim 2",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor click opens 2",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "cratesDoor leaves other doors unchanged 2",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor aim 3",
+        "pass": true,
+        "evidence": "cratesDoor"
+      },
+      {
+        "name": "cratesDoor E closes 3",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            0
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "cratesDoor leaves other doors unchanged 3",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor render and collision match throughout animation",
+        "pass": true,
+        "evidence": [
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8
+        ]
+      },
+      {
+        "name": "packingDoor aim 0",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor click opens 0",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "packingDoor leaves other doors unchanged 0",
+        "pass": true
+      },
+      {
+        "name": "packingDoor aim 1",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor E closes 1",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "packingDoor leaves other doors unchanged 1",
+        "pass": true
+      },
+      {
+        "name": "packingDoor aim 2",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor click opens 2",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "packingDoor leaves other doors unchanged 2",
+        "pass": true
+      },
+      {
+        "name": "packingDoor aim 3",
+        "pass": true,
+        "evidence": "packingDoor"
+      },
+      {
+        "name": "packingDoor E closes 3",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            0
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "packingDoor leaves other doors unchanged 3",
+        "pass": true
+      },
+      {
+        "name": "packingDoor render and collision match throughout animation",
+        "pass": true,
+        "evidence": [
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8,
+          4.371139539216529e-8
+        ]
+      },
+      {
+        "name": "rearDoor aim 0",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor click opens 0",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            1
+          ]
+        ]
+      },
+      {
+        "name": "rearDoor leaves other doors unchanged 0",
+        "pass": true
+      },
+      {
+        "name": "rearDoor aim 1",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor E closes 1",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "rearDoor leaves other doors unchanged 1",
+        "pass": true
+      },
+      {
+        "name": "rearDoor aim 2",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor click opens 2",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            1
+          ]
+        ]
+      },
+      {
+        "name": "rearDoor leaves other doors unchanged 2",
+        "pass": true
+      },
+      {
+        "name": "rearDoor aim 3",
+        "pass": true,
+        "evidence": "rearDoor"
+      },
+      {
+        "name": "rearDoor E closes 3",
+        "pass": true,
+        "evidence": [
+          [
+            "door",
+            1
+          ],
+          [
+            "door",
+            1
+          ],
+          [
+            "cratesDoor",
+            1
+          ],
+          [
+            "packingDoor",
+            1
+          ],
+          [
+            "rearDoor",
+            0
+          ]
+        ]
+      },
+      {
+        "name": "rearDoor leaves other doors unchanged 3",
+        "pass": true
+      },
+      {
+        "name": "rearDoor render and collision match throughout animation",
+        "pass": true,
+        "evidence": [
+          1.9054839253763162e-8,
+          1.1736969679074124e-8,
+          3.733275101338403e-8,
+          6.219682608186162e-8,
+          8.833133925355608e-8,
+          1.1050047036063173e-7,
+          1.3489017236339606e-7,
+          1.5797294987200349e-7
+        ]
+      },
+      {
+        "name": "light switch reachable",
+        "pass": true,
+        "evidence": "light"
+      },
+      {
+        "name": "light independently toggles light and bulb 0",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "light independently toggles light and bulb 1",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "light independently toggles light and bulb 2",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "light independently toggles light and bulb 3",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "cratesLight switch reachable",
+        "pass": true,
+        "evidence": "cratesLight"
+      },
+      {
+        "name": "cratesLight independently toggles light and bulb 0",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "cratesLight independently toggles light and bulb 1",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "cratesLight independently toggles light and bulb 2",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "cratesLight independently toggles light and bulb 3",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "packingLight switch reachable",
+        "pass": true,
+        "evidence": "packingLight"
+      },
+      {
+        "name": "packingLight independently toggles light and bulb 0",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "packingLight independently toggles light and bulb 1",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "packingLight independently toggles light and bulb 2",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "packingLight independently toggles light and bulb 3",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": false,
+            "intensities": [
+              0
+            ],
+            "bulbs": [
+              0
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "passage switch reachable",
+        "pass": true,
+        "evidence": "passage"
+      },
+      {
+        "name": "passage independently toggles light and bulb 0",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": true,
+            "intensities": [
+              14,
+              11
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          }
+        }
+      },
+      {
+        "name": "passage independently toggles light and bulb 1",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "passage independently toggles light and bulb 2",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": true,
+            "intensities": [
+              14,
+              11
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          }
+        }
+      },
+      {
+        "name": "passage independently toggles light and bulb 3",
+        "pass": true,
+        "evidence": {
+          "light": {
+            "on": true,
+            "intensities": [
+              14,
+              14
+            ],
+            "bulbs": [
+              3,
+              3
+            ]
+          },
+          "cratesLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "packingLight": {
+            "on": true,
+            "intensities": [
+              11
+            ],
+            "bulbs": [
+              3
+            ]
+          },
+          "passage": {
+            "on": false,
+            "intensities": [
+              0,
+              0
+            ],
+            "bulbs": [
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "name": "window aimed 0",
+        "pass": true
+      },
+      {
+        "name": "window repeated operation 0",
+        "pass": true
+      },
+      {
+        "name": "window aimed 1",
+        "pass": true
+      },
+      {
+        "name": "window repeated operation 1",
+        "pass": true
+      },
+      {
+        "name": "window aimed 2",
+        "pass": true
+      },
+      {
+        "name": "window repeated operation 2",
+        "pass": true
+      },
+      {
+        "name": "window aimed 3",
+        "pass": true
+      },
+      {
+        "name": "window repeated operation 3",
+        "pass": true
+      },
+      {
+        "name": "walking body stops before the window opening envelope",
+        "pass": true,
+        "evidence": [
+          0.9686008035163887,
+          1.83,
+          -1.2137465696883314
+        ]
+      },
+      {
+        "name": "window clearance remains physically blocked",
+        "pass": true
+      },
+      {
+        "name": "door rejects unsafe closure",
+        "pass": true
+      },
+      {
+        "name": "cratesDoor rejects unsafe closure",
+        "pass": true
+      },
+      {
+        "name": "packingDoor rejects unsafe closure",
+        "pass": true
+      },
+      {
+        "name": "rearDoor rejects unsafe closure",
+        "pass": true
+      },
+      {
+        "name": "door pauses safely if player enters during closing",
+        "pass": true,
+        "evidence": [
+          {
+            "name": "D01L_front_hinge",
+            "control": "door",
+            "label": "front doors",
+            "hinge": [
+              -0.699999988079071,
+              -0.3050000071525574
+            ],
+            "width": 0.7,
+            "closedAngle": 0,
+            "swingAngle": 1.658062789394613,
+            "restAngle": 0,
+            "halfThickness": 0.04,
+            "amount": 1,
+            "target": 1
+          },
+          {
+            "name": "D01R_front_hinge",
+            "control": "door",
+            "label": "front doors",
+            "hinge": [
+              0.699999988079071,
+              -0.3050000071525574
+            ],
+            "width": 0.7,
+            "closedAngle": 3.141592653589793,
+            "swingAngle": -1.658062789394613,
+            "restAngle": 3.1415927410125732,
+            "halfThickness": 0.04,
+            "amount": 1,
+            "target": 1
+          },
+          {
+            "name": "D02_left_store_hinge",
+            "control": "cratesDoor",
+            "label": "crate storeroom door",
+            "hinge": [
+              -0.8100000023841858,
+              -7.350000381469727
+            ],
+            "width": 1,
+            "closedAngle": -1.5707963267948966,
+            "swingAngle": -1.5707963267948966,
+            "restAngle": 3.1415927410125732,
+            "halfThickness": 0.085,
+            "amount": 1,
+            "target": 1
+          },
+          {
+            "name": "D03_right_store_hinge",
+            "control": "packingDoor",
+            "label": "packing room door",
+            "hinge": [
+              0.8100000023841858,
+              -7.350000381469727
+            ],
+            "width": 1,
+            "closedAngle": -1.5707963267948966,
+            "swingAngle": 1.5707963267948966,
+            "restAngle": 0,
+            "halfThickness": 0.085,
+            "amount": 1,
+            "target": 1
+          },
+          {
+            "name": "D04_rear_hinge",
+            "control": "rearDoor",
+            "label": "rear door",
+            "hinge": [
+              -0.5,
+              -15.180000305175781
+            ],
+            "width": 1,
+            "closedAngle": 0,
+            "swingAngle": 1.5707963267948966,
+            "restAngle": 1.5707963705062866,
+            "halfThickness": 0.085,
+            "amount": 0.4801299999999979,
+            "target": 0
+          }
+        ]
+      },
+      {
+        "name": "paused door finishes once player clears",
+        "pass": true
+      },
+      {
+        "name": "switch cannot be used through room wall",
+        "pass": true,
+        "evidence": null
+      },
+      {
+        "name": "no runtime errors",
+        "pass": true,
+        "evidence": []
+      }
+    ],
+    "errors": [],
+    "pass": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+  }
+}

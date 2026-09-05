@@ -1,0 +1,645 @@
+{
+  "conditions": {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "network": "25 Mbps down / 5 Mbps up / 40 ms latency; cache disabled",
+    "navigationReadyMs": 5173.300000071526,
+    "readyMs": 4898.899999976158,
+    "frameSamples": 1,
+    "p50Ms": 89.79999997615778,
+    "p95Ms": 89.79999997615778,
+    "drawCalls": 198,
+    "triangles": 597862,
+    "textures": 24,
+    "geometries": 99,
+    "pixelRatio": 1,
+    "position": [
+      0,
+      1.72,
+      3.1
+    ],
+    "yaw": 0,
+    "pitch": -0.02,
+    "door": 0,
+    "windowAmount": 0,
+    "lightsOn": false,
+    "locked": false,
+    "gpu": "ANGLE (Intel, Intel(R) Graphics (0x00007D67) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+    "resources": [
+      {
+        "name": "http://127.0.0.1:5173/assets/index-D1Lqmpfs.js",
+        "transferSize": 9019,
+        "duration": 55.700000047683716
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/react-DBevnrki.js",
+        "transferSize": 60444,
+        "duration": 90.79999995231628
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/three-J5RF7w6k.js",
+        "transferSize": 145685,
+        "duration": 130.89999997615814
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/index-DYusw78c.css",
+        "transferSize": 1914,
+        "duration": 51.200000047683716
+      },
+      {
+        "name": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Libre+Caslon+Display&display=swap",
+        "transferSize": 813,
+        "duration": 127.69999992847443
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/complete.glb",
+        "transferSize": 13332188,
+        "duration": 4398.099999904633
+      },
+      {
+        "name": "http://127.0.0.1:5173/assets/complete.json",
+        "transferSize": 4306,
+        "duration": 58.700000047683716
+      },
+      {
+        "name": "http://127.0.0.1:5173/draco/draco_wasm_wrapper.js",
+        "transferSize": 12048,
+        "duration": 59.300000071525574
+      },
+      {
+        "name": "http://127.0.0.1:5173/draco/draco_decoder.wasm",
+        "transferSize": 192720,
+        "duration": 120.29999995231628
+      }
+    ],
+    "assets": {
+      "rooms": [
+        "sales",
+        "crate storage",
+        "packing",
+        "rear passage"
+      ],
+      "preparedDoors": [
+        {
+          "name": "D02_left_store_hinge",
+          "present": true
+        },
+        {
+          "name": "D03_right_store_hinge",
+          "present": true
+        },
+        {
+          "name": "D04_rear_hinge",
+          "present": true
+        }
+      ],
+      "fixtures": [
+        {
+          "id": "Crates",
+          "position": [
+            -2.12,
+            2.68,
+            -10.6
+          ],
+          "intensity": 11,
+          "distance": 7
+        },
+        {
+          "id": "Packing",
+          "position": [
+            2.12,
+            2.68,
+            -10.6
+          ],
+          "intensity": 11,
+          "distance": 7
+        },
+        {
+          "id": "Rear_passage",
+          "position": [
+            0,
+            2.68,
+            -12.4
+          ],
+          "intensity": 11,
+          "distance": 7
+        }
+      ]
+    }
+  },
+  "checks": [
+    {
+      "name": "all prepared rear door pivots load",
+      "pass": true,
+      "evidence": {
+        "rooms": [
+          "sales",
+          "crate storage",
+          "packing",
+          "rear passage"
+        ],
+        "preparedDoors": [
+          {
+            "name": "D02_left_store_hinge",
+            "present": true
+          },
+          {
+            "name": "D03_right_store_hinge",
+            "present": true
+          },
+          {
+            "name": "D04_rear_hinge",
+            "present": true
+          }
+        ],
+        "fixtures": [
+          {
+            "id": "Crates",
+            "position": [
+              -2.12,
+              2.68,
+              -10.6
+            ],
+            "intensity": 11,
+            "distance": 7
+          },
+          {
+            "id": "Packing",
+            "position": [
+              2.12,
+              2.68,
+              -10.6
+            ],
+            "intensity": 11,
+            "distance": 7
+          },
+          {
+            "id": "Rear_passage",
+            "position": [
+              0,
+              2.68,
+              -12.4
+            ],
+            "intensity": 11,
+            "distance": 7
+          }
+        ]
+      }
+    },
+    {
+      "name": "all four spaces and three rear fixtures are present",
+      "pass": true,
+      "evidence": {
+        "rooms": [
+          "sales",
+          "crate storage",
+          "packing",
+          "rear passage"
+        ],
+        "preparedDoors": [
+          {
+            "name": "D02_left_store_hinge",
+            "present": true
+          },
+          {
+            "name": "D03_right_store_hinge",
+            "present": true
+          },
+          {
+            "name": "D04_rear_hinge",
+            "present": true
+          }
+        ],
+        "fixtures": [
+          {
+            "id": "Crates",
+            "position": [
+              -2.12,
+              2.68,
+              -10.6
+            ],
+            "intensity": 11,
+            "distance": 7
+          },
+          {
+            "id": "Packing",
+            "position": [
+              2.12,
+              2.68,
+              -10.6
+            ],
+            "intensity": 11,
+            "distance": 7
+          },
+          {
+            "id": "Rear_passage",
+            "position": [
+              0,
+              2.68,
+              -12.4
+            ],
+            "intensity": 11,
+            "distance": 7
+          }
+        ]
+      }
+    },
+    {
+      "name": "left room entry",
+      "pass": true,
+      "evidence": [
+        -2.112179999999998,
+        1.83,
+        -6.85
+      ]
+    },
+    {
+      "name": "left room full aisle",
+      "pass": true,
+      "evidence": [
+        -2.1,
+        1.83,
+        -12.81756999999998
+      ]
+    },
+    {
+      "name": "right room entry",
+      "pass": true,
+      "evidence": [
+        2.264850000000001,
+        1.83,
+        -6.85
+      ]
+    },
+    {
+      "name": "right room full aisle",
+      "pass": true,
+      "evidence": [
+        2.2,
+        1.83,
+        -13.619349999999985
+      ]
+    },
+    {
+      "name": "rear passage",
+      "pass": true,
+      "evidence": [
+        0,
+        1.83,
+        -14.429069999999989
+      ]
+    },
+    {
+      "name": "rear exit and steps",
+      "pass": true,
+      "evidence": [
+        0,
+        1.6903224110009847,
+        -17.721150000000005
+      ]
+    },
+    {
+      "name": "rear yard",
+      "pass": true,
+      "evidence": [
+        4.822440000000001,
+        1.69,
+        -17.7
+      ]
+    },
+    {
+      "name": "right side path",
+      "pass": true,
+      "evidence": [
+        4.8,
+        1.69,
+        2.8239299999999874
+      ]
+    },
+    {
+      "name": "return to apron",
+      "pass": true,
+      "evidence": [
+        -0.009419999999998555,
+        1.7199999999999998,
+        2.8
+      ]
+    },
+    {
+      "name": "left side path",
+      "pass": true,
+      "evidence": [
+        -4.8,
+        1.69,
+        -17.711330000000046
+      ]
+    },
+    {
+      "name": "full scene has no runtime errors",
+      "pass": true,
+      "evidence": []
+    }
+  ],
+  "samples": [
+    {
+      "name": "left room entry",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 76,
+      "p50Ms": 12.199999999999818,
+      "p95Ms": 18.300000000000182,
+      "drawCalls": 127,
+      "triangles": 591514,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        -2.112179999999998,
+        1.83,
+        -6.85
+      ],
+      "yaw": 1.5707963267948963,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    },
+    {
+      "name": "left room full aisle",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 267,
+      "p50Ms": 12.200000000000728,
+      "p95Ms": 18.299999999999272,
+      "drawCalls": 137,
+      "triangles": 585582,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        -2.1,
+        1.83,
+        -12.81756999999998
+      ],
+      "yaw": 0,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    },
+    {
+      "name": "right room entry",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 342,
+      "p50Ms": 12.200000000000728,
+      "p95Ms": 18.300000000000182,
+      "drawCalls": 127,
+      "triangles": 591514,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        2.264850000000001,
+        1.83,
+        -6.85
+      ],
+      "yaw": -1.5707963267948963,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    },
+    {
+      "name": "right room full aisle",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 578,
+      "p50Ms": 12.199999999999818,
+      "p95Ms": 18.299999999999272,
+      "drawCalls": 134,
+      "triangles": 584690,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        2.2,
+        1.83,
+        -13.619349999999985
+      ],
+      "yaw": 0,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    },
+    {
+      "name": "rear passage",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 803,
+      "p50Ms": 12.199999999999818,
+      "p95Ms": 18.299999999999272,
+      "drawCalls": 133,
+      "triangles": 584646,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        0,
+        1.83,
+        -14.429069999999989
+      ],
+      "yaw": 0,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    },
+    {
+      "name": "rear exit and steps",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 945,
+      "p50Ms": 12.199999999998909,
+      "p95Ms": 18.299999999999272,
+      "drawCalls": 112,
+      "triangles": 577969,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        0,
+        1.6903224110009847,
+        -17.721150000000005
+      ],
+      "yaw": 0,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    },
+    {
+      "name": "rear yard",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 1159,
+      "p50Ms": 12.100000000002183,
+      "p95Ms": 18.200000000000728,
+      "drawCalls": 112,
+      "triangles": 577969,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        4.822440000000001,
+        1.69,
+        -17.7
+      ],
+      "yaw": -1.5707963267948963,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    },
+    {
+      "name": "right side path",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 1951,
+      "p50Ms": 12.100000000002183,
+      "p95Ms": 18.200000000000728,
+      "drawCalls": 110,
+      "triangles": 563367,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        4.8,
+        1.69,
+        2.8239299999999874
+      ],
+      "yaw": 3.141592653589793,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    },
+    {
+      "name": "return to apron",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 2144,
+      "p50Ms": 12.100000000002183,
+      "p95Ms": 18.200000000000728,
+      "drawCalls": 121,
+      "triangles": 582889,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        -0.009419999999998555,
+        1.7199999999999998,
+        2.8
+      ],
+      "yaw": 1.5707963267948963,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    },
+    {
+      "name": "left side path",
+      "readyMs": 4898.899999976158,
+      "frameSamples": 2809,
+      "p50Ms": 12.100000000002183,
+      "p95Ms": 18.200000000004366,
+      "drawCalls": 111,
+      "triangles": 577769,
+      "textures": 24,
+      "geometries": 99,
+      "pixelRatio": 1,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "position": [
+        -4.8,
+        1.69,
+        -17.711330000000046
+      ],
+      "yaw": 0,
+      "pitch": 0,
+      "door": 1,
+      "windowAmount": 0,
+      "lightsOn": false,
+      "locked": true
+    }
+  ],
+  "performance": {
+    "readyMs": 4898.899999976158,
+    "frameSamples": 2809,
+    "p50Ms": 12.100000000002183,
+    "p95Ms": 18.200000000004366,
+    "drawCalls": 111,
+    "triangles": 577769,
+    "textures": 24,
+    "geometries": 99,
+    "pixelRatio": 1,
+    "viewport": [
+      1920,
+      1080
+    ],
+    "position": [
+      -4.8,
+      1.69,
+      -17.711330000000046
+    ],
+    "yaw": 0,
+    "pitch": 0,
+    "door": 1,
+    "windowAmount": 0,
+    "lightsOn": false,
+    "locked": true
+  },
+  "errors": []
+}

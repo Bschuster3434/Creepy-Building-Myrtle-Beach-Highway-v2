@@ -1,0 +1,21 @@
+{
+  "milestone": "M4",
+  "nodeTestsPassed": 9,
+  "browserChecks": {
+    "browser-report": 27,
+    "full-scene-report": 13,
+    "edge-report": 13
+  },
+  "galleryImages": 18,
+  "missingImages": [],
+  "compressionRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "hashes": {
+    "model/myrtle-beach-v2-complete.blend": "9297653d853c09a46ffc2afc79b26e8cc7a9acaffda1fe399fd90289e597d326",
+    "app/public/assets/complete.glb": "905751774c07ea49b49343f7bc5d43df7093b02ff28f15d6e60993375db1cf44",
+    "app/public/assets/complete.json": "5f728fb2e5cac70713bba708550e62d884ba77e9c34ae4f9f45e63b246809406",
+    "model/build_full.py": "658f87158963a9c791b0cdf259aacc1e0553cde752fd659195c6c97ad1bdaa04",
+    "model/full_scene_finish.py": "081a31dd66251c36fdd00592634b7b491c4477157d2692c581ac166f57daf147"
+  }
+}
