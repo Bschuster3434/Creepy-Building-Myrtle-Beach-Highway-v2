@@ -21,6 +21,10 @@ npm.cmd run preview -- --port 5173
 
 Open http://127.0.0.1:5173/. Vercel setup is unnecessary for local M5 verification. Public deployment and verification of that deployment belong to M6.
 
+## Vercel deployment
+
+Import the GitHub repository into a new Vercel project. Set **Root Directory** to `app`, select the **Vite** framework, use **Node.js 24.x**, and deploy the `main` production branch. The project builds with `npm run build` and publishes `dist`; `vercel.json` records those settings. No environment variables are currently required.
+
 ## Controls
 
 | View | Mouse | Keyboard |

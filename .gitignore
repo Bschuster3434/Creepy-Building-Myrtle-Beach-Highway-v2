@@ -1,9 +1,13 @@
 /.playwright-mcp/
 /.claude/
+.vercel/
 .env
 .env.*
 !.env.example
 /live-street-view.png
+
+/node_modules/
+/dist/
 
 # Reproducible Blender review intermediates
 /planning/m2-review/walk-frames/

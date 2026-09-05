@@ -11,6 +11,10 @@ Research a real building independently, reconstruct it in a new Blender scene, a
 
 Notion is the authoritative project plan and task tracker. This README provides local orientation and a resume point.
 
+## Vercel deployment
+
+Import this GitHub repository into a new Vercel project. Set **Root Directory** to `app`, select the **Vite** framework, use **Node.js 24.x**, and deploy the `main` production branch. Vercel runs `npm run build` and serves `dist`; no environment variables are currently required.
+
 ## Task ownership and confirmation
 
 The project's existing inline to-do list is the assistant's working list. The assistant creates and maintains tasks, updates their statuses, and records findings and deliverables.
