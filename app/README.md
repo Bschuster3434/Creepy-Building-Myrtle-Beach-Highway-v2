@@ -25,6 +25,8 @@ Open http://127.0.0.1:5173/. Vercel setup is unnecessary for local M5 verificati
 
 Import the GitHub repository into a new Vercel project. Set **Root Directory** to `app`, select the **Vite** framework, use **Node.js 24.x**, and deploy the `main` production branch. The project builds with `npm run build` and publishes `dist`; `vercel.json` records those settings. No environment variables are currently required.
 
+The scene and Draco decoder are copied from `public/` and served through their root-relative `/assets/` and `/draco/` paths.
+
 ## Controls
 
 | View | Mouse | Keyboard |
